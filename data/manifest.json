@@ -1,0 +1,1877 @@
+[
+  {
+    "path": "n_6_bio.npy",
+    "source": "qcbm_jax/n_6_bio.npy",
+    "bytes": 640,
+    "sha256": "3c8b5d130e4db413364bb0b084a17f67bb5ce11cedc9303831c8df0b4ac97073"
+  },
+  {
+    "path": "mse_h_p.npy",
+    "source": "qcbm_jax/mse_h_p.npy",
+    "bytes": 512,
+    "sha256": "e93f59859e2e184aa0595ace05d2c1d9e50f714d382eec3c8d98bd1d87a258ad"
+  },
+  {
+    "path": "tn_mse_dict.npz",
+    "source": "qcbm_jax/tn_mse_dict.pkl",
+    "bytes": 48237,
+    "sha256": "c7c2d97cfa125384fee688d22ef94120233c20dfc8fb2d22733021d1e9c13304",
+    "original_sha256": "6b7b1b01578f7e12ec86e9aac228105856aed6a8632c73aa441beb14a082cf4a",
+    "original_bytes": 6315,
+    "conversion": "Numeric arrays + JSON dictionary structure; original pickle values retained."
+  },
+  {
+    "path": "mse_dict_1d_ising.npz",
+    "source": "qcbm_jax/mse_dict_1d_ising.pkl",
+    "bytes": 192309,
+    "sha256": "daa72f7eacfcac2930d727af5c326b7b77071fe476d5028bf561152881649c97",
+    "original_sha256": "9df7e51723a35a48e377c9310dbe614530337aff91bd1b0f990a66097135459f",
+    "original_bytes": 21401,
+    "conversion": "Numeric arrays + JSON dictionary structure; original pickle values retained."
+  },
+  {
+    "path": "mse_dict_2d_haldane.npz",
+    "source": "qcbm_jax/mse_dict_2d_haldane.pkl",
+    "bytes": 192321,
+    "sha256": "ffeee0d4b452356f54da9e8b9f7f6e32e9674c9251fad624ca2d5eb8e261d33d",
+    "original_sha256": "0c89b12ca6bc07eeeceed13a61fc5f5d452dc982a71cc583deeebf859db7f467",
+    "original_bytes": 21401,
+    "conversion": "Numeric arrays + JSON dictionary structure; original pickle values retained."
+  },
+  {
+    "path": "gammas.npy",
+    "source": "qcbm_jax/gammas.npy",
+    "bytes": 136,
+    "sha256": "1e132fcd1b55515601d94efe62095563800f6b2d0600eb8fc5e2616f2e242172"
+  },
+  {
+    "path": "runs_histories/histories_summary.npz",
+    "source": "qcbm_jax/runs_histories/histories_summary.npz",
+    "bytes": 187128,
+    "sha256": "309e50105ab9f6efc81fa1666e6b1aef2032f5b8d1cd6327d2c4fbef99315503"
+  },
+  {
+    "path": "TN_data/bond_dim_6_loss_histories.npy",
+    "source": "qcbm_jax/TN_data/bond_dim_6_loss_histories.npy",
+    "bytes": 16128,
+    "sha256": "58a3035e30a295a52ca5a6a626263a9d054e1898cf82e7a39496629bbd14c534"
+  },
+  {
+    "path": "TN_data/bond_dim_8_loss_histories.npy",
+    "source": "qcbm_jax/TN_data/bond_dim_8_loss_histories.npy",
+    "bytes": 16128,
+    "sha256": "5f32a52ca5d2ecaeca13e20baab03f1da9ddb3f4a20d6c7a4b2038b433f93623"
+  },
+  {
+    "path": "TN_data/bond_dim_5_loss_histories.npy",
+    "source": "qcbm_jax/TN_data/bond_dim_5_loss_histories.npy",
+    "bytes": 16128,
+    "sha256": "360b8672e1a06602af8bc7b521c66d1533747cd6df34e1734ee5914d4bb0191c"
+  },
+  {
+    "path": "TN_data/bond_dim_4_loss_histories.npy",
+    "source": "qcbm_jax/TN_data/bond_dim_4_loss_histories.npy",
+    "bytes": 16128,
+    "sha256": "41dbfec752b367cd0cf760eb6a94991064e9328f25080494e146c24e7fb446ff"
+  },
+  {
+    "path": "TN_data/bond_dim_7_loss_histories.npy",
+    "source": "qcbm_jax/TN_data/bond_dim_7_loss_histories.npy",
+    "bytes": 16128,
+    "sha256": "47cfb0a16ff4acf91bf53dc7347774c3924190b4ea5f6a810f2e6e386edf5d8d"
+  },
+  {
+    "path": "TN_k_data/exps_1d_ising_bond_dim_8_iter_200_runs_5.npz",
+    "source": "qcbm_jax/TN_k_data/exps_1d_ising_bond_dim_8_iter_200_runs_5.pkl",
+    "bytes": 10941,
+    "sha256": "5c9bcddbd8425ef18d72216624e975e1224d0aec15afa72313c2af3f70a06704",
+    "original_sha256": "06811a917e25e72b5c420a35908e4a8316483a1eaff0f96a17279988b0ed33f6",
+    "original_bytes": 11077,
+    "conversion": "Numeric arrays + JSON dictionary structure; original pickle values retained."
+  },
+  {
+    "path": "TN_k_data/exps_1d_ising_bond_dim_5_iter_200_runs_5.npz",
+    "source": "qcbm_jax/TN_k_data/exps_1d_ising_bond_dim_5_iter_200_runs_5.pkl",
+    "bytes": 10972,
+    "sha256": "4b3fdbf73fbb652525aca9d5f16e528a5ad625a67506440d5b4bc549112cfd2b",
+    "original_sha256": "b8548813c909d102e0244c72d68af31385c1a2a94ff0c8cc1a7bed0c2fefc703",
+    "original_bytes": 11077,
+    "conversion": "Numeric arrays + JSON dictionary structure; original pickle values retained."
+  },
+  {
+    "path": "TN_k_data/exps_1d_ising_bond_dim_4_iter_200_runs_5.npz",
+    "source": "qcbm_jax/TN_k_data/exps_1d_ising_bond_dim_4_iter_200_runs_5.pkl",
+    "bytes": 10962,
+    "sha256": "990f3dce83b112840af9fe210fd0450859191a1af946ebec09a992504e02203c",
+    "original_sha256": "e3dce6c983758d911ad883b58ab740884c0971f953875fed7a434b1fb871b64e",
+    "original_bytes": 11077,
+    "conversion": "Numeric arrays + JSON dictionary structure; original pickle values retained."
+  },
+  {
+    "path": "TN_k_data/exps_1d_ising_bond_dim_7_iter_200_runs_5.npz",
+    "source": "qcbm_jax/TN_k_data/exps_1d_ising_bond_dim_7_iter_200_runs_5.pkl",
+    "bytes": 10953,
+    "sha256": "cd73d0002b38e0c8054a769b4bd6224b0813050558d64137d310d0807f53e093",
+    "original_sha256": "6107a80722fa51026d0d47bb5d3d6c2b5e60b754fcf9df2a3bc8ebe9bcc879a2",
+    "original_bytes": 11077,
+    "conversion": "Numeric arrays + JSON dictionary structure; original pickle values retained."
+  },
+  {
+    "path": "TN_k_data/exps_1d_ising_bond_dim_6_iter_200_runs_5.npz",
+    "source": "qcbm_jax/TN_k_data/exps_1d_ising_bond_dim_6_iter_200_runs_5.pkl",
+    "bytes": 10964,
+    "sha256": "ee0af871637e1c3654b8c9d38fbdf8e82010d934d6bbaa7014128d68d4c70d30",
+    "original_sha256": "4945024abb0c1599c63f71bf5c6b06d657e08b248f885d5861c3178df6020817",
+    "original_bytes": 11077,
+    "conversion": "Numeric arrays + JSON dictionary structure; original pickle values retained."
+  },
+  {
+    "path": "TN_k_data/exps_1d_ising_bond_dim_1_iter_200_runs_5.npz",
+    "source": "qcbm_jax/TN_k_data/exps_1d_ising_bond_dim_1_iter_200_runs_5.pkl",
+    "bytes": 7745,
+    "sha256": "5519ddd7a63dc22ab6866ad593982bc946b920e8520f451ed5967275aa061c0c",
+    "original_sha256": "62847370de637b9161c4bc87a3aa0452dc4e4bb54746d6b7d50598e074d44f3d",
+    "original_bytes": 11077,
+    "conversion": "Numeric arrays + JSON dictionary structure; original pickle values retained."
+  },
+  {
+    "path": "TN_k_data/exps_1d_ising_bond_dim_2_iter_200_runs_5.npz",
+    "source": "qcbm_jax/TN_k_data/exps_1d_ising_bond_dim_2_iter_200_runs_5.pkl",
+    "bytes": 8451,
+    "sha256": "53bb391ac44044370c7444d2f77673d610c5e4a28293d4227cde65df1bc4112c",
+    "original_sha256": "526ebca7b7129d9ded61ffa55d75b3cb614c4d67813af8a02b2e7b48f2745521",
+    "original_bytes": 11077,
+    "conversion": "Numeric arrays + JSON dictionary structure; original pickle values retained."
+  },
+  {
+    "path": "TN_k_data/exps_1d_ising_bond_dim_3_iter_200_runs_5.npz",
+    "source": "qcbm_jax/TN_k_data/exps_1d_ising_bond_dim_3_iter_200_runs_5.pkl",
+    "bytes": 10881,
+    "sha256": "53acbc10a2ede9b35f4769cb1a6a065cfdb2f29c1029e2c7f5930a8e21c8b9fc",
+    "original_sha256": "27a9ffa8e1a7e8d9aaf69d09be16a5c4af05bbfb866c1026580de554336bb7e4",
+    "original_bytes": 11077,
+    "conversion": "Numeric arrays + JSON dictionary structure; original pickle values retained."
+  },
+  {
+    "path": "kernels_6/anova_2.npy",
+    "source": "qcbm_jax/kernels_6/anova_2.npy",
+    "bytes": 32896,
+    "sha256": "ff1709a26ab1153818b826ef539a78d07820522da34d25544d03d6886621aa42"
+  },
+  {
+    "path": "kernels_6/anova_3.npy",
+    "source": "qcbm_jax/kernels_6/anova_3.npy",
+    "bytes": 32896,
+    "sha256": "b4f019e8529c6f7b2ef6156dd59428290ae1bb4c87f49b2cfcb94f9b735b0fd3"
+  },
+  {
+    "path": "kernels_6/anova_1.npy",
+    "source": "qcbm_jax/kernels_6/anova_1.npy",
+    "bytes": 32896,
+    "sha256": "de0c94bf55b8eceb0cfe89c3cb71c27e91dae13b86dd79ba95ce61f5a65dd616"
+  },
+  {
+    "path": "kernels_6/anova_4.npy",
+    "source": "qcbm_jax/kernels_6/anova_4.npy",
+    "bytes": 32896,
+    "sha256": "cb92664a6b2501ce5fdb0a4cfdd8e3ee7a07a1f929bcc6e81606b3a528cd9893"
+  },
+  {
+    "path": "kernels_6/anova_5.npy",
+    "source": "qcbm_jax/kernels_6/anova_5.npy",
+    "bytes": 32896,
+    "sha256": "23d0039e4f081a74ef4341f9bafd6c94b6a16ac6cd7412082643897a83c6afb0"
+  },
+  {
+    "path": "kernels_6/anova_6.npy",
+    "source": "qcbm_jax/kernels_6/anova_6.npy",
+    "bytes": 32896,
+    "sha256": "7186c7fffe90bac8726f8bae39c4827ab09def4a3a3120e75f568082c1ef53b4"
+  },
+  {
+    "path": "results/ising_20_1/xb_512/avg_kl_per_zb_xb_xb_512.npz",
+    "source": "qcbm_jax/results/ising_20_1/xb_512/avg_kl_per_zb_xb_xb_512.pkl",
+    "bytes": 2482,
+    "sha256": "ac93a8c73819d9ee6529b92d8d4b79fb04bebda29c6361b9429a470f774b9ae4",
+    "original_sha256": "9803fb4ba6a425ce64d3286ffce72bbc543ae08e93001702a246b695541939c0",
+    "original_bytes": 142,
+    "conversion": "Numeric arrays + JSON dictionary structure; original pickle values retained."
+  },
+  {
+    "path": "results/ising_20_1/xb_128/avg_kl_per_zb_xb_xb_128.npz",
+    "source": "qcbm_jax/results/ising_20_1/xb_128/avg_kl_per_zb_xb_xb_128.pkl",
+    "bytes": 2481,
+    "sha256": "11244025d8f2f3171287ebae2fe588954ebfab2dbba880983e5f1cf8f9c6cf96",
+    "original_sha256": "32ea905aa4713f06675ed079e06cda2abf17877500c1abc523190101788a30c4",
+    "original_bytes": 142,
+    "conversion": "Numeric arrays + JSON dictionary structure; original pickle values retained."
+  },
+  {
+    "path": "results/ising_20_1/xb_256/avg_kl_per_zb_xb_xb_256.npz",
+    "source": "qcbm_jax/results/ising_20_1/xb_256/avg_kl_per_zb_xb_xb_256.pkl",
+    "bytes": 2480,
+    "sha256": "ee4c2dab8a743c0ba59e6693bff5909b63b04aa5bed79500709d359c6184bb09",
+    "original_sha256": "a4f3477b84b4a4f9d7f95958e1d3c8cf70bf61f58d8e30cd8ae269f111dd7637",
+    "original_bytes": 142,
+    "conversion": "Numeric arrays + JSON dictionary structure; original pickle values retained."
+  },
+  {
+    "path": "results/ising_12_1/xb_512/avg_kl_per_zb_xb_xb_512.npz",
+    "source": "qcbm_jax/results/ising_12_1/xb_512/avg_kl_per_zb_xb_xb_512.pkl",
+    "bytes": 2073,
+    "sha256": "bc31548befcb000e4f2b90243994427c823bb480192709697c44253e91ee990d",
+    "original_sha256": "58dd8fc7303209598809d3d0f04f52155c71b8361e32fe587782b0db583dac93",
+    "original_bytes": 118,
+    "conversion": "Numeric arrays + JSON dictionary structure; original pickle values retained."
+  },
+  {
+    "path": "results/ising_12_1/xb_128/avg_kl_per_zb_xb_xb_128.npz",
+    "source": "qcbm_jax/results/ising_12_1/xb_128/avg_kl_per_zb_xb_xb_128.pkl",
+    "bytes": 2070,
+    "sha256": "838bdfa2cd80d0bfce21e04a3595372351ed5575d2d44e778af4d1be95a27542",
+    "original_sha256": "a86fb0272b2e10671a514f0899e29f6f0428b6e592a6c462699c99be3dcb740c",
+    "original_bytes": 118,
+    "conversion": "Numeric arrays + JSON dictionary structure; original pickle values retained."
+  },
+  {
+    "path": "results/ising_12_1/xb_256/avg_kl_per_zb_xb_xb_256.npz",
+    "source": "qcbm_jax/results/ising_12_1/xb_256/avg_kl_per_zb_xb_xb_256.pkl",
+    "bytes": 2070,
+    "sha256": "38132d864a5816378a278e041914096ac3c1a408f15851701b9d3accf649d41d",
+    "original_sha256": "6bac176a40b6a8f95eb6fbb125e6da3ab797a4ae6783a19940571957b344c7bb",
+    "original_bytes": 118,
+    "conversion": "Numeric arrays + JSON dictionary structure; original pickle values retained."
+  },
+  {
+    "path": "G_info/tgt_1d_ising_alg_iqp_k_5_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_1d_ising_alg_iqp_k_5_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "53b8e31272fb0cfa9098d6ea456a7e60ac96f44e8066d45f5f01dda8efbccb7c"
+  },
+  {
+    "path": "G_info/tgt_1d_ising_alg_iqp_k_4_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_1d_ising_alg_iqp_k_4_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "4053eef1bda5d7a2805ecfaeb680c5af75f77791fbc7c144779b2389a04c4f46"
+  },
+  {
+    "path": "G_info/tgt_1d_ising_alg_matchgate_k_3_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_1d_ising_alg_matchgate_k_3_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "7b4f6ea2efaaa507eefdf6524743cde96e4fed732de19a108aaec99e8f561b84"
+  },
+  {
+    "path": "G_info/tgt_1d_ising_alg_matchgate_k_2_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_1d_ising_alg_matchgate_k_2_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "83e439f560b951e233a8b0a053a7eccea7164bbd44a6cb08a49c5dcdecb3c85c"
+  },
+  {
+    "path": "G_info/tgt_bio_alg_matchgate_k_6_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_bio_alg_matchgate_k_6_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "350c4287196e7ff2bf541eba8f9ff79ca03ec7b8f5012603c150d8f060bc55e8"
+  },
+  {
+    "path": "G_info/tgt_1d_haldane_alg_haldane_k_1_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_1d_haldane_alg_haldane_k_1_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "38028bf5a3c98416dbef0de804d71ccdd19ee5d9afa8c4d516562bf15f4aba0e"
+  },
+  {
+    "path": "G_info/tgt_bio_alg_haldane_k_4_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_bio_alg_haldane_k_4_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "6d70f5dca1d6ef36b885efac6ca6952014877e33b7bc113f329156ab19fcee67"
+  },
+  {
+    "path": "G_info/tgt_bio_alg_haldane_k_5_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_bio_alg_haldane_k_5_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "a5779402f0d314dfb1740c8805e9e7891a98606b7b5c224c9642a929b3c5d596"
+  },
+  {
+    "path": "G_info/tgt_1d_haldane_alg_matchgate_k_2_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_1d_haldane_alg_matchgate_k_2_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "dc0b3667d5e7e9ada330be9720e5b0a95dd2de993e99b68f2e6f42de3e44435b"
+  },
+  {
+    "path": "G_info/tgt_1d_haldane_alg_matchgate_k_3_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_1d_haldane_alg_matchgate_k_3_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "8e66d710312856bc91af2f801d4f938ace5518cf6ee424438d996681bd6bc8a6"
+  },
+  {
+    "path": "G_info/tgt_2d_haldane_alg_haldane_k_6_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_2d_haldane_alg_haldane_k_6_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "731a2ef252ad7a2d0413306766e218ed499d5b7d16b6109bff8df02601cad897"
+  },
+  {
+    "path": "G_info/tgt_1d_ising_alg_haldane_k_1_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_1d_ising_alg_haldane_k_1_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "a21a455bab68acbe19aa170d7f71fc34e7caf018d34ee76a955aea0ecd17c665"
+  },
+  {
+    "path": "G_info/tgt_1d_haldane_alg_iqp_k_1_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_1d_haldane_alg_iqp_k_1_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "a45e86107d6069f594b5e437bc9552687acd1dbaccb24ddde8da890184e3d8fb"
+  },
+  {
+    "path": "G_info/tgt_1d_heisenberg_alg_matchgate_k_2_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_1d_heisenberg_alg_matchgate_k_2_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "c849de097a49a2617bbd06cea8b302f413e1cf797d9e27cc720b2d8a78867b97"
+  },
+  {
+    "path": "G_info/tgt_1d_heisenberg_alg_matchgate_k_3_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_1d_heisenberg_alg_matchgate_k_3_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "077846b0496551ea695e2df6b6ab4a9690d4adeab570e77962cbaeeeb23d0773"
+  },
+  {
+    "path": "G_info/tgt_2d_haldane_alg_heisenberg_k_5_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_2d_haldane_alg_heisenberg_k_5_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "ba73cfc3b35b62289a25533f0920bd648b68035e1040e9a32dfae524e5b992ff"
+  },
+  {
+    "path": "G_info/tgt_2d_haldane_alg_heisenberg_k_4_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_2d_haldane_alg_heisenberg_k_4_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "05525192d71cf0d972b41db2e7385684e769f3293d9d9d53381fc4bc6ef49420"
+  },
+  {
+    "path": "G_info/tgt_1d_heisenberg_alg_iqp_k_6_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_1d_heisenberg_alg_iqp_k_6_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "b3cd4074a090b56b8e19396dd4c65939633730ac63208c80e07bf7266d6615af"
+  },
+  {
+    "path": "G_info/tgt_bio_alg_iqp_k_2_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_bio_alg_iqp_k_2_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "3e23b9f9ccf21f10c25249809978f53e4ba8a0f0d9934491bf2fb0a4c46179f2"
+  },
+  {
+    "path": "G_info/tgt_bio_alg_iqp_k_3_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_bio_alg_iqp_k_3_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "305a43b1d41132c0539f113d16117039b57798c8158c0080d572ea36d70ef4d7"
+  },
+  {
+    "path": "G_info/tgt_bio_alg_heisenberg_k_6_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_bio_alg_heisenberg_k_6_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "d052bd729e79c3b8dc8a7bb578cfd8634fe19f85f041583666cd6686272c8e06"
+  },
+  {
+    "path": "G_info/tgt_2d_haldane_alg_iqp_k_5_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_2d_haldane_alg_iqp_k_5_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "f3ea8a39bf04f6090925886c0ffba000bf4233c5f49e9fe36abf115ca737f3ba"
+  },
+  {
+    "path": "G_info/tgt_2d_haldane_alg_iqp_k_4_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_2d_haldane_alg_iqp_k_4_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "20fd7c6819ca90e91988171cf3d5a7dfcc42c34d51dcd46761ba7a612bf8124d"
+  },
+  {
+    "path": "G_info/tgt_2d_haldane_alg_matchgate_k_2_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_2d_haldane_alg_matchgate_k_2_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "1cf233985247a2dc18394c3ac84f57620ca2982d4b8ddf116b402b428355c3ab"
+  },
+  {
+    "path": "G_info/tgt_2d_haldane_alg_matchgate_k_3_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_2d_haldane_alg_matchgate_k_3_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "3a19da1d1d05d07ddad6eb3f51ae2757d0ab1e1a3f097af98cd54be8fb08789e"
+  },
+  {
+    "path": "G_info/tgt_1d_ising_alg_heisenberg_k_6_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_1d_ising_alg_heisenberg_k_6_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "8ae1343c4cbadd013a494f5ed6da2aa51bc6462bac3d39b3e4b0c93aea958d26"
+  },
+  {
+    "path": "G_info/tgt_1d_heisenberg_alg_haldane_k_1_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_1d_heisenberg_alg_haldane_k_1_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "824318fd4aa4ce4e8b740db0e3629a7535ecf5adaae467fce8297e3310036bd0"
+  },
+  {
+    "path": "G_info/tgt_1d_heisenberg_alg_heisenberg_k_5_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_1d_heisenberg_alg_heisenberg_k_5_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "2b6135b1d6f030b42561b47da4dfbc8d84d5ba829d10f8f8bcf4d849be818b00"
+  },
+  {
+    "path": "G_info/tgt_1d_heisenberg_alg_heisenberg_k_4_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_1d_heisenberg_alg_heisenberg_k_4_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "f89d6d8f49807ab4123b531ba93dde6f4182e917858d64fc35aac1157725a9b2"
+  },
+  {
+    "path": "G_info/tgt_1d_haldane_alg_heisenberg_k_1_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_1d_haldane_alg_heisenberg_k_1_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "a40cec9014af04547b04d3469be3df5a9b2c3e310fa5d8a20c23546370022c76"
+  },
+  {
+    "path": "G_info/tgt_2d_haldane_alg_heisenberg_k_2_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_2d_haldane_alg_heisenberg_k_2_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "17737ac701f796dd63f4c7dfcfeaa5b9d818a093f116af6b260a18d2659cdc00"
+  },
+  {
+    "path": "G_info/tgt_2d_haldane_alg_heisenberg_k_3_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_2d_haldane_alg_heisenberg_k_3_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "000689743264f037f6b509f26fe592ac0bb547cb3120eb81ac094f2d75ea43cb"
+  },
+  {
+    "path": "G_info/tgt_1d_heisenberg_alg_iqp_k_1_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_1d_heisenberg_alg_iqp_k_1_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "29da1d526f662b5c30613122f1e5c84c74ba1fdd0ab91ec36290cd459acf5daf"
+  },
+  {
+    "path": "G_info/tgt_bio_alg_iqp_k_5_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_bio_alg_iqp_k_5_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "c1e3b4f4b3b41ec6afe603e6efeaa0d46702c4e768be86b803fc7290a076bfc2"
+  },
+  {
+    "path": "G_info/tgt_bio_alg_iqp_k_4_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_bio_alg_iqp_k_4_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "96a7fd0a8eeec43137611f2e0a608b2108a3ba2b7b143d968b33bfedc7de7b1b"
+  },
+  {
+    "path": "G_info/tgt_2d_haldane_alg_iqp_k_2_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_2d_haldane_alg_iqp_k_2_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "064a59820302bf4177512c181fcdba357abb8ea1aadf194c081a2dba1f06082a"
+  },
+  {
+    "path": "G_info/tgt_2d_haldane_alg_iqp_k_3_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_2d_haldane_alg_iqp_k_3_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "3f174134fba6a82a0ec61803bd586a312627b920e69876f2caac8eb840e78326"
+  },
+  {
+    "path": "G_info/tgt_bio_alg_heisenberg_k_1_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_bio_alg_heisenberg_k_1_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "7a99bdd322aaeecd9ea75b160353a3787fa50452f015df1b16ae51d219706f6d"
+  },
+  {
+    "path": "G_info/tgt_2d_haldane_alg_matchgate_k_5_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_2d_haldane_alg_matchgate_k_5_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "a597139d865f9fdfe0cc2a1f3a90c712f8d35d8398c573a8fc006a66e660d5c3"
+  },
+  {
+    "path": "G_info/tgt_2d_haldane_alg_matchgate_k_4_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_2d_haldane_alg_matchgate_k_4_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "8a8a37c2f5a6efc2f3dc59e3d29c09f64527b7cfc1974fcae51d004903ab0f6b"
+  },
+  {
+    "path": "G_info/tgt_1d_ising_alg_heisenberg_k_1_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_1d_ising_alg_heisenberg_k_1_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "c1008952a059e887592d7f2d0692829676aa7161eaea6f3137135422907fee86"
+  },
+  {
+    "path": "G_info/tgt_1d_heisenberg_alg_haldane_k_6_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_1d_heisenberg_alg_haldane_k_6_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "72aed70901cbb7feeb3ba4001d8587450ffb3b528da3ffc8578cfff50008b2cf"
+  },
+  {
+    "path": "G_info/tgt_1d_haldane_alg_heisenberg_k_6_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_1d_haldane_alg_heisenberg_k_6_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "9bb788e7f236dece7b9a54130766caa7b9c19fd05153a3c62ac54cd9e02daeaa"
+  },
+  {
+    "path": "G_info/tgt_1d_heisenberg_alg_heisenberg_k_2_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_1d_heisenberg_alg_heisenberg_k_2_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "b9ac6e263d7a6f56986c74410aa6669d8946b6f4b04d289ecfa7c1193f021d2d"
+  },
+  {
+    "path": "G_info/tgt_1d_heisenberg_alg_heisenberg_k_3_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_1d_heisenberg_alg_heisenberg_k_3_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "e78d2f94cf59b2e184f191f942782d9f2017a1b51dbdb4fb9e2334c2b489d218"
+  },
+  {
+    "path": "G_info/tgt_1d_ising_alg_matchgate_k_4_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_1d_ising_alg_matchgate_k_4_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "7ab2bffb2619b0009b1a37e88dfca471c024ddc47ef34e54ec4a81780863dbc6"
+  },
+  {
+    "path": "G_info/tgt_1d_ising_alg_matchgate_k_5_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_1d_ising_alg_matchgate_k_5_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "2432aef0b08d704fce13748c0ec1700cb381b5c975894e42650fd935582b436f"
+  },
+  {
+    "path": "G_info/tgt_1d_ising_alg_iqp_k_2_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_1d_ising_alg_iqp_k_2_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "0c917df44b572d0bcd98ac925a3417bede0f0b5898037ad293afaf0ea15bf63f"
+  },
+  {
+    "path": "G_info/tgt_1d_ising_alg_iqp_k_3_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_1d_ising_alg_iqp_k_3_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "d074be4c06704823d364d7a81729f7ecb0a1104088b31bd33f2ab21c611fcf91"
+  },
+  {
+    "path": "G_info/tgt_bio_alg_matchgate_k_1_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_bio_alg_matchgate_k_1_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "7c511934debe470f3864b599439526b8dcfe4f552fa391ad19fe091eac3eceb3"
+  },
+  {
+    "path": "G_info/tgt_1d_haldane_alg_haldane_k_6_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_1d_haldane_alg_haldane_k_6_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "4b8e4199ad8f3ba8c10a788ce5e420fde8edbf27688c15b8ba224e532d5fa502"
+  },
+  {
+    "path": "G_info/tgt_2d_haldane_alg_haldane_k_1_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_2d_haldane_alg_haldane_k_1_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "cde67deb9c972cad3f4f240f9a04b65786cdc97fb038bd91ec9c148954ecea53"
+  },
+  {
+    "path": "G_info/tgt_bio_alg_haldane_k_3_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_bio_alg_haldane_k_3_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "6b83810d583c19abd92e25e475a2e1a0b7ca2c51215ba0c37fe34d75b1691dc8"
+  },
+  {
+    "path": "G_info/tgt_bio_alg_haldane_k_2_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_bio_alg_haldane_k_2_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "c0d78ee1af27c7383f3befec41c2c1714e07af91f08099cc9887d9d2ee63baf3"
+  },
+  {
+    "path": "G_info/tgt_1d_haldane_alg_matchgate_k_5_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_1d_haldane_alg_matchgate_k_5_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "4fac0d8f994519c6cede3ded918a93d19008c526b909f091db25b672ca60ecd1"
+  },
+  {
+    "path": "G_info/tgt_1d_haldane_alg_matchgate_k_4_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_1d_haldane_alg_matchgate_k_4_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "f224015fc567704e20ab3851c037c1008d5314707bd4b7747c23b5cde478d2a6"
+  },
+  {
+    "path": "G_info/tgt_1d_ising_alg_haldane_k_6_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_1d_ising_alg_haldane_k_6_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "a4a30a9b97ec1d1e1b2c6a3b5f241773b5962f584d5a775f1b3fa2a839a26b1a"
+  },
+  {
+    "path": "G_info/tgt_1d_heisenberg_alg_matchgate_k_5_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_1d_heisenberg_alg_matchgate_k_5_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "c07603ec48642045d87d270b0027057273a7cf5a1dc3fa72fdf6b1fec0acd14a"
+  },
+  {
+    "path": "G_info/tgt_1d_heisenberg_alg_matchgate_k_4_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_1d_heisenberg_alg_matchgate_k_4_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "01ee66977393d180195dd8473927014d431c4b78ccee6a72b627741b7cb1ff31"
+  },
+  {
+    "path": "G_info/tgt_1d_haldane_alg_iqp_k_6_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_1d_haldane_alg_iqp_k_6_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "d4d34b154fbc75d7288c0369842476365331e2aba61d0d2f3c87ecfb27f30cf4"
+  },
+  {
+    "path": "G_info/tgt_2d_haldane_alg_matchgate_k_1_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_2d_haldane_alg_matchgate_k_1_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "bdd2a2cdfd03986c302bbd06508aca0ef68b436b25bdb0bf6537c10351641d31"
+  },
+  {
+    "path": "G_info/tgt_1d_ising_alg_heisenberg_k_5_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_1d_ising_alg_heisenberg_k_5_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "3144f17432f8c7bf90b49867a724a910bfb79dbda3bc36314976332c37d77a8c"
+  },
+  {
+    "path": "G_info/tgt_1d_ising_alg_heisenberg_k_4_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_1d_ising_alg_heisenberg_k_4_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "6ffcd3cb40306a954af3524701590b31df2826773a686b7f0c8edb64acda8aeb"
+  },
+  {
+    "path": "G_info/tgt_1d_heisenberg_alg_haldane_k_2_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_1d_heisenberg_alg_haldane_k_2_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "c977f4a8f01500eeb68ee4566dbd6128474eea9b674bc6852d8a2e5eebb434ac"
+  },
+  {
+    "path": "G_info/tgt_1d_heisenberg_alg_haldane_k_3_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_1d_heisenberg_alg_haldane_k_3_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "7249852e40a60e41d74443dd9a5d9528da699b58c4c71f0bd5b17960362a2c1e"
+  },
+  {
+    "path": "G_info/tgt_1d_heisenberg_alg_heisenberg_k_6_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_1d_heisenberg_alg_heisenberg_k_6_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "232e1fea06ae0e2a9f5aa9f9c59f8b208869329eb4db5f9a5c1f89b69fdb3bd7"
+  },
+  {
+    "path": "G_info/tgt_1d_haldane_alg_heisenberg_k_2_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_1d_haldane_alg_heisenberg_k_2_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "a6273519c30ab229212beff1c5ac9b7738f4811b8d05f9b0a9ef5fab365af164"
+  },
+  {
+    "path": "G_info/tgt_1d_haldane_alg_heisenberg_k_3_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_1d_haldane_alg_heisenberg_k_3_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "68f604d72aa96e4c4fb3f78e09887cc1a3835e5c06072bcce2e23e57874396c8"
+  },
+  {
+    "path": "G_info/tgt_1d_heisenberg_alg_iqp_k_4_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_1d_heisenberg_alg_iqp_k_4_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "98af36beadd01a3cbde57370ba4a394b8965d77ff7efd5705faa2187bffa9943"
+  },
+  {
+    "path": "G_info/tgt_1d_heisenberg_alg_iqp_k_5_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_1d_heisenberg_alg_iqp_k_5_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "4238a901b4f64b00a79fca1ece380c9d288bd3278d78029f182b6d79e4d2c2eb"
+  },
+  {
+    "path": "G_info/tgt_bio_alg_iqp_k_1_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_bio_alg_iqp_k_1_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "08d401f5ff84e0c15934d4a519fa094fdf4913ee14e4bbeb3e364aed55a781b7"
+  },
+  {
+    "path": "G_info/tgt_2d_haldane_alg_heisenberg_k_6_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_2d_haldane_alg_heisenberg_k_6_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "d4b0f42508ab09f83435c58072b349a06beeaaeefb3bfad88f7d007354a54dab"
+  },
+  {
+    "path": "G_info/tgt_bio_alg_heisenberg_k_4_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_bio_alg_heisenberg_k_4_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "c3bd1e46dd2146d925791998dcab31ceb327a4e7b25069bf0defaff19d959495"
+  },
+  {
+    "path": "G_info/tgt_bio_alg_heisenberg_k_5_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_bio_alg_heisenberg_k_5_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "2503b800e675c7cf59e79709060a273f0e8ac5f913e0f12da2767405ef8a87e3"
+  },
+  {
+    "path": "G_info/tgt_2d_haldane_alg_iqp_k_6_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_2d_haldane_alg_iqp_k_6_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "e84bd0ba3661b77cc3c537c970a8bf0fbe76d5e0d3a02cd95e000e6603024d72"
+  },
+  {
+    "path": "G_info/tgt_bio_alg_haldane_k_6_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_bio_alg_haldane_k_6_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "3d2bcbf0d900ee3bba054a2ff53b2fb56eebf73a397efb7915f3e1cbc6ba22ae"
+  },
+  {
+    "path": "G_info/tgt_1d_haldane_alg_matchgate_k_1_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_1d_haldane_alg_matchgate_k_1_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "90601a655c7aae6caf87ee0c285a80d467ca90d4f2c4cd4ab345e5222acd0225"
+  },
+  {
+    "path": "G_info/tgt_2d_haldane_alg_haldane_k_5_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_2d_haldane_alg_haldane_k_5_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "cf06297a552298bb58f585e33478c5e083bdf81bc80278c10dc755745eaf4880"
+  },
+  {
+    "path": "G_info/tgt_2d_haldane_alg_haldane_k_4_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_2d_haldane_alg_haldane_k_4_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "e63fd9ea055e26904931fcff068f8f3bda4d4a343f087332f772fdbde2660569"
+  },
+  {
+    "path": "G_info/tgt_1d_ising_alg_haldane_k_2_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_1d_ising_alg_haldane_k_2_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "2419bff8f8f4b6c4c98246c50ea1648e5d001f4f7711811ab90b0af4fa3929fa"
+  },
+  {
+    "path": "G_info/tgt_1d_ising_alg_haldane_k_3_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_1d_ising_alg_haldane_k_3_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "05a20a08272875e2bba4d18920b3ed55d2a9d3719501d52f547c5b3e504b09d9"
+  },
+  {
+    "path": "G_info/tgt_1d_haldane_alg_iqp_k_3_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_1d_haldane_alg_iqp_k_3_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "9eac31e7f98e6a555ad0a2168d08f59516d82227399176c78c4b99ab629b6f1d"
+  },
+  {
+    "path": "G_info/tgt_1d_haldane_alg_iqp_k_2_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_1d_haldane_alg_iqp_k_2_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "4d2b8b625ae444023521c7dea199b2f1a003e95beedd8149e07ec83bd801eb98"
+  },
+  {
+    "path": "G_info/tgt_1d_heisenberg_alg_matchgate_k_1_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_1d_heisenberg_alg_matchgate_k_1_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "82850bfd2225fe67280a6862c82bb8d59a7c4c17cef919423f6fdff505d0dbe1"
+  },
+  {
+    "path": "G_info/tgt_1d_ising_alg_iqp_k_6_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_1d_ising_alg_iqp_k_6_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "fd4896a2e3899e7bc7f8d6f43bd815b949f4905140a3cfc99bfa3822b249e940"
+  },
+  {
+    "path": "G_info/tgt_1d_ising_alg_matchgate_k_1_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_1d_ising_alg_matchgate_k_1_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "a9437ba1cad288b98bdc3f240f1b4cddcac5f08bdddd9c8181f917b0270d9bb2"
+  },
+  {
+    "path": "G_info/tgt_bio_alg_matchgate_k_5_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_bio_alg_matchgate_k_5_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "9be92d6c762f32c2fe980879c80e6bb48edf9be6a951262a80e2d5cf36d9338b"
+  },
+  {
+    "path": "G_info/tgt_bio_alg_matchgate_k_4_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_bio_alg_matchgate_k_4_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "72850598dbc4451bcb79def719842eb528b88e1481b2331f62ec11ece8c66dae"
+  },
+  {
+    "path": "G_info/tgt_1d_haldane_alg_haldane_k_2_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_1d_haldane_alg_haldane_k_2_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "0fbacffeea6a0a961ab88ddb484305c7f82cce7019b8453d07cb82d2153e92a1"
+  },
+  {
+    "path": "G_info/tgt_1d_haldane_alg_haldane_k_3_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_1d_haldane_alg_haldane_k_3_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "f579d787c317512d6ed0420311e408beffc5826da12fc1ed8094356ace86af89"
+  },
+  {
+    "path": "G_info/tgt_2d_haldane_alg_haldane_k_2_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_2d_haldane_alg_haldane_k_2_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "9472519fdeceb36e0a4a271f988aa41cf54ce5b37f7e2a2961b8929e3c97aa0e"
+  },
+  {
+    "path": "G_info/tgt_2d_haldane_alg_haldane_k_3_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_2d_haldane_alg_haldane_k_3_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "5a01840ce07de14998144d1a4adf74de7091bf52f8b59e9db419d0a8fd320a5d"
+  },
+  {
+    "path": "G_info/tgt_bio_alg_haldane_k_1_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_bio_alg_haldane_k_1_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "e9c3c2601287731b355de9a6072c33ef8b1730c1e1fee12fd86a8964b0bc25c9"
+  },
+  {
+    "path": "G_info/tgt_1d_haldane_alg_matchgate_k_6_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_1d_haldane_alg_matchgate_k_6_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "6389d5a747c830b18251a620a7b11efe377c255be78ec2237978e109fc9fcab3"
+  },
+  {
+    "path": "G_info/tgt_1d_ising_alg_haldane_k_5_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_1d_ising_alg_haldane_k_5_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "51036ab2e365f095d7c7e929de8f3970664e6613d0a556c168d4badce3e64a2f"
+  },
+  {
+    "path": "G_info/tgt_1d_ising_alg_haldane_k_4_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_1d_ising_alg_haldane_k_4_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "056660195a2cd2b7bc281fba0718d064459fc8ddc2dabb0f0c9f63a897c49d79"
+  },
+  {
+    "path": "G_info/tgt_1d_heisenberg_alg_matchgate_k_6_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_1d_heisenberg_alg_matchgate_k_6_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "2e8b0fa20ab3d14db2b986e0a419c8efbce627f8b5045f480b468dfea9dec3ab"
+  },
+  {
+    "path": "G_info/tgt_1d_haldane_alg_iqp_k_4_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_1d_haldane_alg_iqp_k_4_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "206c1702adcfcc86bf5364f02f7bfc6a84b1c84b78cdbfc7bc1b11a8f8e8a04a"
+  },
+  {
+    "path": "G_info/tgt_1d_haldane_alg_iqp_k_5_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_1d_haldane_alg_iqp_k_5_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "09a906e7bf612ec9d701c3766775262d8dbcc16ed0194d64d2f3dbc454684856"
+  },
+  {
+    "path": "G_info/tgt_1d_ising_alg_matchgate_k_6_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_1d_ising_alg_matchgate_k_6_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "1ae803f6cb472abeca00eb140338c20462246e100d59c9743a6f3749ba1a8f87"
+  },
+  {
+    "path": "G_info/tgt_1d_ising_alg_iqp_k_1_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_1d_ising_alg_iqp_k_1_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "990d4ceda5535c2a0bebf4146a20fa6b77877c415b054f722c3e5c8b9aa46f27"
+  },
+  {
+    "path": "G_info/tgt_bio_alg_matchgate_k_2_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_bio_alg_matchgate_k_2_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "932f036e43fb3d2e9d89a59e55ad478ace63d00dddb044db5bcbf770a6081802"
+  },
+  {
+    "path": "G_info/tgt_bio_alg_matchgate_k_3_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_bio_alg_matchgate_k_3_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "3b0c296b698b10c804c82c0011f4ef8b5a42f903895129ee48df46fced5a7b40"
+  },
+  {
+    "path": "G_info/tgt_1d_haldane_alg_haldane_k_5_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_1d_haldane_alg_haldane_k_5_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "6e756869408505e2c58f700441259377008397a298731d2ec0b91e39878bc0b1"
+  },
+  {
+    "path": "G_info/tgt_1d_haldane_alg_haldane_k_4_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_1d_haldane_alg_haldane_k_4_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "c830c2b869b7ba707e99931e2167cbc1604b3116ca64c7b960c2be114b4bd6ca"
+  },
+  {
+    "path": "G_info/tgt_2d_haldane_alg_matchgate_k_6_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_2d_haldane_alg_matchgate_k_6_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "f2c3e82c6d4fd5cdb8c3e3026f9d98c841a8b70ab492c7839b5c232636b1221a"
+  },
+  {
+    "path": "G_info/tgt_1d_ising_alg_heisenberg_k_2_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_1d_ising_alg_heisenberg_k_2_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "b2a6c82851d8c8b98950d570e71e7b9ba001e765a173b293514a72276e851dca"
+  },
+  {
+    "path": "G_info/tgt_1d_ising_alg_heisenberg_k_3_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_1d_ising_alg_heisenberg_k_3_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "e1b8c49d3169a9c96a664c77fbfa66e43c8a6847f3a806abf1e9223f8bf6df97"
+  },
+  {
+    "path": "G_info/tgt_1d_heisenberg_alg_haldane_k_5_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_1d_heisenberg_alg_haldane_k_5_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "ac85fcab8d5be7ce882f5f7025ee14f972d4d412daaf2aa6098d2d7b32970849"
+  },
+  {
+    "path": "G_info/tgt_1d_heisenberg_alg_haldane_k_4_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_1d_heisenberg_alg_haldane_k_4_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "8feb8dce09d53b465ad7f885462713a54b98ddcbf78d1b8066117c7bea229495"
+  },
+  {
+    "path": "G_info/tgt_1d_haldane_alg_heisenberg_k_5_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_1d_haldane_alg_heisenberg_k_5_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "70e93588b1832332bff73936b5f2f2ea95ecd2aa6403b68cf1d573b0d1ce5abd"
+  },
+  {
+    "path": "G_info/tgt_1d_haldane_alg_heisenberg_k_4_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_1d_haldane_alg_heisenberg_k_4_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "645151e68614fe002ba346ecc5d3706e7b7622d2b94f75df72af63ed4718a816"
+  },
+  {
+    "path": "G_info/tgt_1d_heisenberg_alg_heisenberg_k_1_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_1d_heisenberg_alg_heisenberg_k_1_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "160b4c1c2337b4ef63f3e057c5c6c98211ffdafdb701f23392802d9c550eb875"
+  },
+  {
+    "path": "G_info/tgt_1d_heisenberg_alg_iqp_k_3_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_1d_heisenberg_alg_iqp_k_3_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "8c3121ab8cb107850ac5dce20d81719f1bf154d9a97771edd4f91352263560d8"
+  },
+  {
+    "path": "G_info/tgt_1d_heisenberg_alg_iqp_k_2_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_1d_heisenberg_alg_iqp_k_2_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "1da698617aae30fa71622f2c8156afc038c314f81b33a9f382cbfaa11f13f588"
+  },
+  {
+    "path": "G_info/tgt_bio_alg_iqp_k_6_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_bio_alg_iqp_k_6_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "141488f9780e9ef5f6e96fec617509e501df8d256b8874b867edad3df3c722d9"
+  },
+  {
+    "path": "G_info/tgt_2d_haldane_alg_heisenberg_k_1_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_2d_haldane_alg_heisenberg_k_1_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "34ac5bac92e3e9eb9f9e84583adee7937a0bb60207e98a847654cd4980b9d4cf"
+  },
+  {
+    "path": "G_info/tgt_2d_haldane_alg_iqp_k_1_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_2d_haldane_alg_iqp_k_1_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "dd6867763c1422e900a0637582ab3b17b5ef3405520568f1e1b071503e11f9cb"
+  },
+  {
+    "path": "G_info/tgt_bio_alg_heisenberg_k_3_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_bio_alg_heisenberg_k_3_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "e3ce50386268d268f73d26fd5de2ae6fbe7f915e9a3f39a0a79eb3582c972f52"
+  },
+  {
+    "path": "G_info/tgt_bio_alg_heisenberg_k_2_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info/tgt_bio_alg_heisenberg_k_2_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 5248,
+    "sha256": "d8a843e69534f7abe9c1fe0f9724c8e2359bec04b3ae43ed5ce90a66fe90d5f5"
+  },
+  {
+    "path": "G_info_rfc/tgt_1d_ising_alg_heisenberg_ss_5_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_1d_ising_alg_heisenberg_ss_5_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "b88019cf2a38bba8c8afac2a8c5d9c37b94ba5535606be6d907c23b89841dfcc"
+  },
+  {
+    "path": "G_info_rfc/tgt_1d_ising_alg_heisenberg_ss_4_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_1d_ising_alg_heisenberg_ss_4_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "35d42d43b2c193db5728d9ae8c60896ed77e6d87eefca522b5068884e51a3ce2"
+  },
+  {
+    "path": "G_info_rfc/tgt_bio_alg_matchgate_ss_6_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_bio_alg_matchgate_ss_6_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "b5a9714aecd6fb297524e26f40aaa86be81a2c49e482ba2f948c7523daec4eed"
+  },
+  {
+    "path": "G_info_rfc/tgt_1d_haldane_alg_haldane_ss_1_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_1d_haldane_alg_haldane_ss_1_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "23f73558a3e004bf3b28d4692541aeea70eb2c62d8af45bb670448a47a00cfc8"
+  },
+  {
+    "path": "G_info_rfc/tgt_1d_heisenberg_alg_haldane_ss_3_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_1d_heisenberg_alg_haldane_ss_3_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "659275cc4fb5a3f91410f3679d5c0ea5fca97b4cea7cfc4251ba557785f31974"
+  },
+  {
+    "path": "G_info_rfc/tgt_1d_heisenberg_alg_haldane_ss_2_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_1d_heisenberg_alg_haldane_ss_2_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "ff74e94a9291dca476807c7ed5ea9a73f39c404ee1ee6cdc5ddf2ba8e084ffca"
+  },
+  {
+    "path": "G_info_rfc/tgt_bio_alg_bio_ss_6_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_bio_alg_bio_ss_6_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "bbd9a2927f1a9fa11983d57195a0b7ba3c286aa9671b64640c446d13d0dbcfec"
+  },
+  {
+    "path": "G_info_rfc/tgt_2d_haldane_alg_matchgate_ss_5_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_2d_haldane_alg_matchgate_ss_5_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "2fe666544db36af78ed92c9466972dc1ceceb7cabee89602fa2090fe80284af7"
+  },
+  {
+    "path": "G_info_rfc/tgt_2d_haldane_alg_matchgate_ss_4_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_2d_haldane_alg_matchgate_ss_4_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "c0071d18115ef8baf7ed2a89a94d204b54d70788dc72c45f498c79b8d5c7d933"
+  },
+  {
+    "path": "G_info_rfc/tgt_1d_heisenberg_alg_matchgate_ss_5_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_1d_heisenberg_alg_matchgate_ss_5_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "ae4226ada749dc09f5c207b344e153d40eb30ad99a17b04d5217a3a4ea4e3d46"
+  },
+  {
+    "path": "G_info_rfc/tgt_1d_heisenberg_alg_matchgate_ss_4_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_1d_heisenberg_alg_matchgate_ss_4_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "2c87878f1c00d8963f906f30dffd90a5377893344d46a8f29cba6f14272446e3"
+  },
+  {
+    "path": "G_info_rfc/tgt_2d_haldane_alg_haldane_ss_4_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_2d_haldane_alg_haldane_ss_4_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "85b2ef1be0a00e32a88f61e3d79533454e66ccb29158b97444995d1c4828d5f8"
+  },
+  {
+    "path": "G_info_rfc/tgt_2d_haldane_alg_haldane_ss_5_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_2d_haldane_alg_haldane_ss_5_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "c7bae2f6ec13b94bce381bce25a0317f4aaf40c9ac9c484d11c2e32458e671eb"
+  },
+  {
+    "path": "G_info_rfc/tgt_1d_haldane_alg_matchgate_ss_1_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_1d_haldane_alg_matchgate_ss_1_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "be57dc06983ae2775ef0bffc254df6e6f0e4941327655b821f4b413656f458aa"
+  },
+  {
+    "path": "G_info_rfc/tgt_1d_heisenberg_alg_heisenberg_ss_4_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_1d_heisenberg_alg_heisenberg_ss_4_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "11aa5960e489c8532c1a86728424385c27cf01799e4f708c0a4e2b6586c7be92"
+  },
+  {
+    "path": "G_info_rfc/tgt_1d_heisenberg_alg_heisenberg_ss_5_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_1d_heisenberg_alg_heisenberg_ss_5_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "b50f515703d3026727b756cc237a8490e5ab16478d8e85320d24170d7f49f38d"
+  },
+  {
+    "path": "G_info_rfc/tgt_1d_ising_alg_iqp_ss_3_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_1d_ising_alg_iqp_ss_3_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "cb1ccadd3e1bcb864319c3982fcfd3a03348d6017882eb1b135313ba7cb272a0"
+  },
+  {
+    "path": "G_info_rfc/tgt_1d_ising_alg_iqp_ss_2_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_1d_ising_alg_iqp_ss_2_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "d2ddf7bdcd0dc94075113d1a18068cb3481d5cc31af9f45e4dd6564d7fdf0f2e"
+  },
+  {
+    "path": "G_info_rfc/tgt_1d_ising_alg_matchgate_ss_6_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_1d_ising_alg_matchgate_ss_6_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "0766df01da8c5cbe140d0c4943600e18486ea0a68dbeb16d9b438b93fd901747"
+  },
+  {
+    "path": "G_info_rfc/tgt_1d_haldane_alg_heisenberg_ss_2_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_1d_haldane_alg_heisenberg_ss_2_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "0b12d35ed4c0f8665478c23b5cc468ca55377f0f70a0d17d2554a536256ff8d5"
+  },
+  {
+    "path": "G_info_rfc/tgt_1d_haldane_alg_heisenberg_ss_3_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_1d_haldane_alg_heisenberg_ss_3_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "03962dd803c06743e1698c220f28337448b06a10097ff3e3f029b27c4f0660a5"
+  },
+  {
+    "path": "G_info_rfc/tgt_bio_alg_iqp_ss_1_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_bio_alg_iqp_ss_1_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "a6403c668287b9b95de0ec963fb6128590a6bd99cbae36e71c9b21b1f6f63d53"
+  },
+  {
+    "path": "G_info_rfc/tgt_2d_haldane_alg_heisenberg_ss_3_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_2d_haldane_alg_heisenberg_ss_3_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "0b4983473eca7cfb520db44b9c9fff6e9eab7ae92047d534e816649cc2a9ca68"
+  },
+  {
+    "path": "G_info_rfc/tgt_2d_haldane_alg_heisenberg_ss_2_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_2d_haldane_alg_heisenberg_ss_2_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "e87063086f8f4a54743b630b13d7d22bbe56b8e61fa530347a8f2eb22beb86f8"
+  },
+  {
+    "path": "G_info_rfc/tgt_2d_haldane_alg_iqp_ss_5_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_2d_haldane_alg_iqp_ss_5_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "5365f6bbc3cd719f4f037a07bb8ff0b82e2723a75c03e8bb7d601caac5ac0f07"
+  },
+  {
+    "path": "G_info_rfc/tgt_2d_haldane_alg_iqp_ss_4_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_2d_haldane_alg_iqp_ss_4_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "28d5cd372d9482134f3d2f12dd948319eeb8f73caa30bb3aaa68e976128d62c5"
+  },
+  {
+    "path": "G_info_rfc/tgt_1d_haldane_alg_iqp_ss_1_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_1d_haldane_alg_iqp_ss_1_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "d35842170adb4bcfc473f2756d62f4591ea5c52e3613dc677c003b15a44c0640"
+  },
+  {
+    "path": "G_info_rfc/tgt_bio_alg_haldane_ss_1_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_bio_alg_haldane_ss_1_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "0c3c094017e759040ce5c7da476dd3bbcc369b15be761ca2a746d861b15de242"
+  },
+  {
+    "path": "G_info_rfc/tgt_bio_alg_heisenberg_ss_2_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_bio_alg_heisenberg_ss_2_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "3ceaffea3d00d03ec14bedbfa7ea9a731692c6c7f6da754d19102d323dedc0be"
+  },
+  {
+    "path": "G_info_rfc/tgt_bio_alg_heisenberg_ss_3_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_bio_alg_heisenberg_ss_3_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "ccdab91325cc47d57b98cf7b373cb070a410896dbecead4d6d5089ee496167da"
+  },
+  {
+    "path": "G_info_rfc/tgt_1d_heisenberg_alg_iqp_ss_2_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_1d_heisenberg_alg_iqp_ss_2_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "8ee4faf2b86324407df4fac711d26e0763e521ca17179fc0819e6678659d381f"
+  },
+  {
+    "path": "G_info_rfc/tgt_1d_heisenberg_alg_iqp_ss_3_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_1d_heisenberg_alg_iqp_ss_3_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "d464537dc2b9dbfd846010afd86120e685c2be30678ab95cc90235619b02d20d"
+  },
+  {
+    "path": "G_info_rfc/tgt_1d_ising_alg_haldane_ss_3_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_1d_ising_alg_haldane_ss_3_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "21733e336d6b90b42fd233b51e3fb14fdfdfdf6fe7b225958b831d369ea79c04"
+  },
+  {
+    "path": "G_info_rfc/tgt_1d_ising_alg_haldane_ss_2_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_1d_ising_alg_haldane_ss_2_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "730c9b32698f084813de40cae602ce4dd3b69126f0491ffa314e1f0c2830a525"
+  },
+  {
+    "path": "G_info_rfc/tgt_1d_haldane_alg_heisenberg_ss_5_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_1d_haldane_alg_heisenberg_ss_5_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "02472deb28ffa2fc57ad75a9d5321a8f0f59935492b20342cd1459e3d3b0f2d1"
+  },
+  {
+    "path": "G_info_rfc/tgt_1d_haldane_alg_heisenberg_ss_4_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_1d_haldane_alg_heisenberg_ss_4_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "a7e5c3076cabe074c514f07e135a713887a38ddab3bb7b11a6e03c80b40c031a"
+  },
+  {
+    "path": "G_info_rfc/tgt_bio_alg_iqp_ss_6_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_bio_alg_iqp_ss_6_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "56a745310fbe3d8fb3bbfd95c10e2f3b693d24273c220fa3afb4f714a6b91648"
+  },
+  {
+    "path": "G_info_rfc/tgt_2d_haldane_alg_heisenberg_ss_4_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_2d_haldane_alg_heisenberg_ss_4_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "e0bc6486666804021fed39e92f6b542a5123eb7679e331c71f5ea16f5b60eb2c"
+  },
+  {
+    "path": "G_info_rfc/tgt_2d_haldane_alg_heisenberg_ss_5_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_2d_haldane_alg_heisenberg_ss_5_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "29a43a979dec22076f0bb698d9fb77fcaa149d3db645a1615ebd1711bf44fa08"
+  },
+  {
+    "path": "G_info_rfc/tgt_2d_haldane_alg_iqp_ss_2_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_2d_haldane_alg_iqp_ss_2_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "e5a09c7e32224b93158b5992c81d07a9a067daceaeb3b1589ea5607a472fb364"
+  },
+  {
+    "path": "G_info_rfc/tgt_2d_haldane_alg_iqp_ss_3_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_2d_haldane_alg_iqp_ss_3_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "faab5e5d9acd348492a6e8f66e69e894626acae7ff82af8ef5e63e8038bb8950"
+  },
+  {
+    "path": "G_info_rfc/tgt_bio_alg_haldane_ss_6_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_bio_alg_haldane_ss_6_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "bbd9a2927f1a9fa11983d57195a0b7ba3c286aa9671b64640c446d13d0dbcfec"
+  },
+  {
+    "path": "G_info_rfc/tgt_1d_haldane_alg_iqp_ss_6_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_1d_haldane_alg_iqp_ss_6_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "8ccf57d7104b55a107d217e0562609e364e8eb7d4e263113e6fae9e97b9a254e"
+  },
+  {
+    "path": "G_info_rfc/tgt_1d_ising_alg_haldane_ss_4_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_1d_ising_alg_haldane_ss_4_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "c16d8ce341d01e2c254a5af317043bb4b2fc576ef8ea7ce50ce4113a179400db"
+  },
+  {
+    "path": "G_info_rfc/tgt_1d_ising_alg_haldane_ss_5_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_1d_ising_alg_haldane_ss_5_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "de5f5ae24951d2ee648d2f5362e848e97abbbfe1a3182b0802f89214376da8fc"
+  },
+  {
+    "path": "G_info_rfc/tgt_bio_alg_heisenberg_ss_5_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_bio_alg_heisenberg_ss_5_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "c611750d5ddc8a40c14c94b03c5f2a9c7190745a7b88891a5ff1dc7acdcf0cd0"
+  },
+  {
+    "path": "G_info_rfc/tgt_bio_alg_heisenberg_ss_4_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_bio_alg_heisenberg_ss_4_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "a04178e661c05c14a27580caa3774da24024df412f2697a5ba188dd4f8eb1996"
+  },
+  {
+    "path": "G_info_rfc/tgt_1d_heisenberg_alg_iqp_ss_5_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_1d_heisenberg_alg_iqp_ss_5_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "16cbd7395d94655864d7ff9add8eff794b6fec4212a7b114e2e34fda37f7aa5a"
+  },
+  {
+    "path": "G_info_rfc/tgt_1d_heisenberg_alg_iqp_ss_4_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_1d_heisenberg_alg_iqp_ss_4_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "433288dbd679db566f625a2a7963fc5c4c30af396d12d1565934b231e361917b"
+  },
+  {
+    "path": "G_info_rfc/tgt_1d_ising_alg_heisenberg_ss_2_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_1d_ising_alg_heisenberg_ss_2_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "149e9cef1f18bca8578f85da5d50349b223a847037e853a641683e7cb3d70c64"
+  },
+  {
+    "path": "G_info_rfc/tgt_1d_ising_alg_heisenberg_ss_3_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_1d_ising_alg_heisenberg_ss_3_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "2038f50a55db0445a8d7a90b5a78d16ca3f9e96461697d5d58dce56cf7536e43"
+  },
+  {
+    "path": "G_info_rfc/tgt_bio_alg_matchgate_ss_1_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_bio_alg_matchgate_ss_1_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "ab1968f789de65fe53d6bb55bbcac661058689b0fd726e3332971acf1e6164a1"
+  },
+  {
+    "path": "G_info_rfc/tgt_1d_haldane_alg_haldane_ss_6_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_1d_haldane_alg_haldane_ss_6_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "4c75dcfc83198159eb430e81af72fb81fe2098c467f2782ef3297d12f89cdc67"
+  },
+  {
+    "path": "G_info_rfc/tgt_1d_heisenberg_alg_haldane_ss_4_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_1d_heisenberg_alg_haldane_ss_4_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "b03e67778d9da57fa6c85c36d518536156c48ae2b189a12328f634dbfc0989a3"
+  },
+  {
+    "path": "G_info_rfc/tgt_1d_heisenberg_alg_haldane_ss_5_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_1d_heisenberg_alg_haldane_ss_5_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "fe00e770bcf0950f11e319400066f301121142625e5d815ee63c4aacf63137b4"
+  },
+  {
+    "path": "G_info_rfc/tgt_2d_haldane_alg_matchgate_ss_2_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_2d_haldane_alg_matchgate_ss_2_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "bde13579b2f1511f30644861c43f5725f6a8fb8fa14fe78459e088ffbc84379c"
+  },
+  {
+    "path": "G_info_rfc/tgt_2d_haldane_alg_matchgate_ss_3_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_2d_haldane_alg_matchgate_ss_3_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "97d54e9ad1723bdfcd625873f748a01dd0ba1f73951c1e852b1e9c606afd8d76"
+  },
+  {
+    "path": "G_info_rfc/tgt_bio_alg_bio_ss_1_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_bio_alg_bio_ss_1_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "0c3c094017e759040ce5c7da476dd3bbcc369b15be761ca2a746d861b15de242"
+  },
+  {
+    "path": "G_info_rfc/tgt_1d_haldane_alg_matchgate_ss_6_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_1d_haldane_alg_matchgate_ss_6_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "a273b421073ae4bc735562385e1277cf278a61e4b365b40e926f1e3cb25f0bd9"
+  },
+  {
+    "path": "G_info_rfc/tgt_1d_heisenberg_alg_heisenberg_ss_3_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_1d_heisenberg_alg_heisenberg_ss_3_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "6f59814cf83d8b507c9099a83b1f43fa83f2a5c816e68709c222136016dc3b19"
+  },
+  {
+    "path": "G_info_rfc/tgt_1d_heisenberg_alg_heisenberg_ss_2_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_1d_heisenberg_alg_heisenberg_ss_2_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "db54da6ac579a90456c1ccad74e6b9293ffaba126429d054db02ef48b032bf2a"
+  },
+  {
+    "path": "G_info_rfc/tgt_1d_heisenberg_alg_matchgate_ss_2_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_1d_heisenberg_alg_matchgate_ss_2_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "fa5fd65a0ea9c285d1ed5e591091102cbb23f4c64318c8640d412856bb99cbe0"
+  },
+  {
+    "path": "G_info_rfc/tgt_1d_heisenberg_alg_matchgate_ss_3_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_1d_heisenberg_alg_matchgate_ss_3_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "7e343cd0bb438f1bf46300b0c74441ee9b2981b492cb42fd11555877acc39498"
+  },
+  {
+    "path": "G_info_rfc/tgt_2d_haldane_alg_haldane_ss_3_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_2d_haldane_alg_haldane_ss_3_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "13e14c4ddb3ec7a5c1789b0eb5687a4225142a2f47b8b79beffbc769dda0298b"
+  },
+  {
+    "path": "G_info_rfc/tgt_2d_haldane_alg_haldane_ss_2_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_2d_haldane_alg_haldane_ss_2_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "defeb7ce378fee6e52892a576924f5c544fb54965f7b3775ab9806b50c69a2a1"
+  },
+  {
+    "path": "G_info_rfc/tgt_1d_ising_alg_iqp_ss_4_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_1d_ising_alg_iqp_ss_4_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "e3177d7101a2d28e075b08f75cfbbaf28510c866c3cfff0d84ef14e6d6c8f400"
+  },
+  {
+    "path": "G_info_rfc/tgt_1d_ising_alg_iqp_ss_5_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_1d_ising_alg_iqp_ss_5_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "1a2c71553b22ba72ee8551dd4e7a64d659bd2b7d5576c244f9fe4ca1547bb9ae"
+  },
+  {
+    "path": "G_info_rfc/tgt_1d_ising_alg_matchgate_ss_1_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_1d_ising_alg_matchgate_ss_1_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "adba9e4ed3e1d1089a3221e30aa33a43c360a2c97337dcdbdb69cf30bcb53d5a"
+  },
+  {
+    "path": "G_info_rfc/tgt_2d_haldane_alg_iqp_ss_6_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_2d_haldane_alg_iqp_ss_6_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "fb97658abdab2418391a1a8b1537a404801b2697a90bc6358ce22c5885ab235a"
+  },
+  {
+    "path": "G_info_rfc/tgt_1d_haldane_alg_iqp_ss_3_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_1d_haldane_alg_iqp_ss_3_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "68dd2f9920251941e79d7b2db4b16290c4f6fb13d0f681f268dcdc480465e407"
+  },
+  {
+    "path": "G_info_rfc/tgt_1d_haldane_alg_iqp_ss_2_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_1d_haldane_alg_iqp_ss_2_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "f91f06bacb6d7c76365aadede32bf4329f0880e6e1db19f82388887acfa1f5e8"
+  },
+  {
+    "path": "G_info_rfc/tgt_bio_alg_haldane_ss_2_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_bio_alg_haldane_ss_2_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "8089f696a543b7ca7acf2fc721bee56f6a6cb5f8781c3c9172ad52643ff45665"
+  },
+  {
+    "path": "G_info_rfc/tgt_bio_alg_haldane_ss_3_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_bio_alg_haldane_ss_3_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "8b0dcfd990f996f25b1a6d25a6ee13b5e00222456f9bee369a4156ee1a056ffe"
+  },
+  {
+    "path": "G_info_rfc/tgt_1d_heisenberg_alg_iqp_ss_1_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_1d_heisenberg_alg_iqp_ss_1_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "e6ac741d9aae51e059abd13003a890faa62b9e87ef4d6207c673ccecb4f9e86f"
+  },
+  {
+    "path": "G_info_rfc/tgt_bio_alg_heisenberg_ss_1_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_bio_alg_heisenberg_ss_1_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "2f71d081e0b3c59f0cf251405961917d3aa1dc9873d4db6acfb4fd718fd447e8"
+  },
+  {
+    "path": "G_info_rfc/tgt_1d_ising_alg_haldane_ss_1_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_1d_ising_alg_haldane_ss_1_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "49499c25957622ba189a1a27a33fbac31428fc7381dea74e85852f14e1191ab6"
+  },
+  {
+    "path": "G_info_rfc/tgt_1d_haldane_alg_heisenberg_ss_1_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_1d_haldane_alg_heisenberg_ss_1_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "149a881066860e2928bf40c5125b8bd317b4e32a67a093e0353ad0dcaac37d46"
+  },
+  {
+    "path": "G_info_rfc/tgt_bio_alg_iqp_ss_3_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_bio_alg_iqp_ss_3_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "445645ff55077795678d24b5a132742e6b7a16338b1a7f55c1c85c0d0438aca0"
+  },
+  {
+    "path": "G_info_rfc/tgt_bio_alg_iqp_ss_2_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_bio_alg_iqp_ss_2_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "dc605e302d6d3aa8d807a14cf475120659b1560b795e7ad99bbe655121897851"
+  },
+  {
+    "path": "G_info_rfc/tgt_2d_haldane_alg_heisenberg_ss_1_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_2d_haldane_alg_heisenberg_ss_1_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "e3092dd66b360822ac9d7ff67bf9753b5587251c4276e584eb1d9d8a36027f46"
+  },
+  {
+    "path": "G_info_rfc/tgt_1d_heisenberg_alg_matchgate_ss_6_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_1d_heisenberg_alg_matchgate_ss_6_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "d5af7289eb3eaff3423380483e47ef559ec7d17fa7d52a5b90d8c70a8136bf7c"
+  },
+  {
+    "path": "G_info_rfc/tgt_2d_haldane_alg_haldane_ss_6_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_2d_haldane_alg_haldane_ss_6_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "d38bf024227382883c1bae7542e2d3cd55b3372f1ad538345cc29dfc82cb3a93"
+  },
+  {
+    "path": "G_info_rfc/tgt_1d_heisenberg_alg_heisenberg_ss_6_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_1d_heisenberg_alg_heisenberg_ss_6_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "cfd2c160c66f8dc904c7eb6cc0c6e41aec76ab623ec43f59665b405b23ffb4ad"
+  },
+  {
+    "path": "G_info_rfc/tgt_1d_haldane_alg_matchgate_ss_2_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_1d_haldane_alg_matchgate_ss_2_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "878391f9bc14504f4ef9b7b2471fc8bc6f51a7113dd0ab8cdd35d3e4ecddd244"
+  },
+  {
+    "path": "G_info_rfc/tgt_1d_haldane_alg_matchgate_ss_3_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_1d_haldane_alg_matchgate_ss_3_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "9f9ca841f63ae2b01d8139810f3de736b2e8a8db5b28749d3ed85f0167f27ede"
+  },
+  {
+    "path": "G_info_rfc/tgt_1d_ising_alg_iqp_ss_1_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_1d_ising_alg_iqp_ss_1_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "41fb4a44517ef7ff652299c9b916cfebdd7676ce5650aef76d68af6eabf63ee7"
+  },
+  {
+    "path": "G_info_rfc/tgt_1d_ising_alg_matchgate_ss_5_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_1d_ising_alg_matchgate_ss_5_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "adf08de5bef7fef852d934b7eadafda542b5a5ab90bb2a89647e283200b855be"
+  },
+  {
+    "path": "G_info_rfc/tgt_1d_ising_alg_matchgate_ss_4_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_1d_ising_alg_matchgate_ss_4_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "8be4f38ee666e6187237cf2ffde83064e493c82d4c58f4725b2f6a34773eed34"
+  },
+  {
+    "path": "G_info_rfc/tgt_1d_ising_alg_heisenberg_ss_6_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_1d_ising_alg_heisenberg_ss_6_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "7bb2353547449fea293f5909e5e69598647ca4144993253bab6dd2b196893e5e"
+  },
+  {
+    "path": "G_info_rfc/tgt_1d_haldane_alg_haldane_ss_3_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_1d_haldane_alg_haldane_ss_3_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "159c53d9a5ed00362dd68240c04ed103d68c34bb02d2626899e612f1b08d4819"
+  },
+  {
+    "path": "G_info_rfc/tgt_bio_alg_matchgate_ss_4_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_bio_alg_matchgate_ss_4_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "2cec6a400da942dd15443d2abd45f2610aaac882ac3f94be7092ea978e52b02b"
+  },
+  {
+    "path": "G_info_rfc/tgt_1d_haldane_alg_haldane_ss_2_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_1d_haldane_alg_haldane_ss_2_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "bf49868b54cce58e08493b88b557b96a0a8e8c518d3f78a1607e6e25fa80634e"
+  },
+  {
+    "path": "G_info_rfc/tgt_bio_alg_matchgate_ss_5_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_bio_alg_matchgate_ss_5_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "b7c2c7ac61f84388ae975552f292e8d2c9c9c6050871028ada43a156e44ebbec"
+  },
+  {
+    "path": "G_info_rfc/tgt_1d_heisenberg_alg_haldane_ss_1_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_1d_heisenberg_alg_haldane_ss_1_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "607cfa4ec356923f35c9962b620bd211b5b63f18793847ac3f4eda1ead4103b2"
+  },
+  {
+    "path": "G_info_rfc/tgt_bio_alg_bio_ss_4_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_bio_alg_bio_ss_4_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "291e2c245956ec075f3cad05d56cee485df2f41c6df587b81cef4e7447c6bd35"
+  },
+  {
+    "path": "G_info_rfc/tgt_bio_alg_bio_ss_5_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_bio_alg_bio_ss_5_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "67c245d9b108734cd2399ab1171cb7aaff60ca18f92246d6a7ce80839696e38e"
+  },
+  {
+    "path": "G_info_rfc/tgt_2d_haldane_alg_matchgate_ss_6_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_2d_haldane_alg_matchgate_ss_6_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "b1058022274a8e0b7417e9a6964cc2add5721e9be22015dd705ca59e81a7a048"
+  },
+  {
+    "path": "G_info_rfc/tgt_1d_heisenberg_alg_heisenberg_ss_1_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_1d_heisenberg_alg_heisenberg_ss_1_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "e6c5b45b4a033e36fddf2fd581b72479a7995384e3348e9c18c8f52987736bfc"
+  },
+  {
+    "path": "G_info_rfc/tgt_1d_haldane_alg_matchgate_ss_5_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_1d_haldane_alg_matchgate_ss_5_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "c74cafdb28df8f1fa1a876103940576c23c9265f703e25bc2c42f40769dc7c5a"
+  },
+  {
+    "path": "G_info_rfc/tgt_1d_haldane_alg_matchgate_ss_4_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_1d_haldane_alg_matchgate_ss_4_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "29a4ceb678758345edefa59ef995cf34eaa14a61d013d2f0e832b1b9fa74342a"
+  },
+  {
+    "path": "G_info_rfc/tgt_1d_heisenberg_alg_matchgate_ss_1_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_1d_heisenberg_alg_matchgate_ss_1_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "e6a7ed7b6e8d8eac69a6f62f2eeaf9d61e17b2f619b56e02ab1430b41015a463"
+  },
+  {
+    "path": "G_info_rfc/tgt_2d_haldane_alg_haldane_ss_1_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_2d_haldane_alg_haldane_ss_1_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "6fc3968a46ffa439d5e645b8c6a974de89143e5a1b88f371a28b7818e65d7143"
+  },
+  {
+    "path": "G_info_rfc/tgt_1d_ising_alg_iqp_ss_6_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_1d_ising_alg_iqp_ss_6_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "40ab1b1ef660ebd4e4665c521ef277db5d19f7c4253bc8d7717b3e34a735bb69"
+  },
+  {
+    "path": "G_info_rfc/tgt_1d_ising_alg_matchgate_ss_2_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_1d_ising_alg_matchgate_ss_2_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "4ce957b6080f115bab318056c642829e538872e41142b798ab2802721bdc19f4"
+  },
+  {
+    "path": "G_info_rfc/tgt_1d_ising_alg_matchgate_ss_3_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_1d_ising_alg_matchgate_ss_3_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "a0e6cfec96cfa31877fd1252c9bcc2583b75307cc24da595f1d949d16509a789"
+  },
+  {
+    "path": "G_info_rfc/tgt_1d_ising_alg_heisenberg_ss_1_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_1d_ising_alg_heisenberg_ss_1_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "52ab79aa439704c6c2abde8fce953c1de117a99b29ef879d3e2832845cf98c26"
+  },
+  {
+    "path": "G_info_rfc/tgt_1d_haldane_alg_haldane_ss_4_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_1d_haldane_alg_haldane_ss_4_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "4ceb39bf034b9215301510cfbbf5979c12a63260d718945e4f07d4cd5dac1040"
+  },
+  {
+    "path": "G_info_rfc/tgt_bio_alg_matchgate_ss_3_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_bio_alg_matchgate_ss_3_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "5a16e81ff8dbe9910d1f3d92769b54c601d59f82028e3e288c7165ba33cbff31"
+  },
+  {
+    "path": "G_info_rfc/tgt_1d_haldane_alg_haldane_ss_5_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_1d_haldane_alg_haldane_ss_5_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "db46bc0e30e3dbd2f8630fe4e654ed07c5de6e76227afcea7d526012ac43a488"
+  },
+  {
+    "path": "G_info_rfc/tgt_bio_alg_matchgate_ss_2_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_bio_alg_matchgate_ss_2_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "282b28846bf54325dfe87327d7bfbcb9845725497a61017fbd111b130dad06ff"
+  },
+  {
+    "path": "G_info_rfc/tgt_1d_heisenberg_alg_haldane_ss_6_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_1d_heisenberg_alg_haldane_ss_6_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "c2614c1290fe22e66090dadd2158f0cd34b7785b9447071d3e6d4884973fa760"
+  },
+  {
+    "path": "G_info_rfc/tgt_2d_haldane_alg_matchgate_ss_1_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_2d_haldane_alg_matchgate_ss_1_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "094057d47ea71edfd30e46379acba6102c3b812b8e00ef81b78c87a0582d48d5"
+  },
+  {
+    "path": "G_info_rfc/tgt_bio_alg_bio_ss_3_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_bio_alg_bio_ss_3_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "8b0dcfd990f996f25b1a6d25a6ee13b5e00222456f9bee369a4156ee1a056ffe"
+  },
+  {
+    "path": "G_info_rfc/tgt_bio_alg_bio_ss_2_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_bio_alg_bio_ss_2_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "8089f696a543b7ca7acf2fc721bee56f6a6cb5f8781c3c9172ad52643ff45665"
+  },
+  {
+    "path": "G_info_rfc/tgt_2d_haldane_alg_iqp_ss_1_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_2d_haldane_alg_iqp_ss_1_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "94a6a4203c865681fc63bf1e4304c101f96eda4518c6d9958ee60e59edb919dd"
+  },
+  {
+    "path": "G_info_rfc/tgt_bio_alg_haldane_ss_5_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_bio_alg_haldane_ss_5_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "67c245d9b108734cd2399ab1171cb7aaff60ca18f92246d6a7ce80839696e38e"
+  },
+  {
+    "path": "G_info_rfc/tgt_bio_alg_haldane_ss_4_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_bio_alg_haldane_ss_4_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "291e2c245956ec075f3cad05d56cee485df2f41c6df587b81cef4e7447c6bd35"
+  },
+  {
+    "path": "G_info_rfc/tgt_1d_haldane_alg_iqp_ss_4_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_1d_haldane_alg_iqp_ss_4_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "1458bfbecbb0f82f5061bd1527387807b65eef892a25ea228d8618d905998b6e"
+  },
+  {
+    "path": "G_info_rfc/tgt_1d_haldane_alg_iqp_ss_5_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_1d_haldane_alg_iqp_ss_5_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "d979176effb12e8276e908a2d8f85d860ebb25b8c44c1208ad2e397e6db6a1d7"
+  },
+  {
+    "path": "G_info_rfc/tgt_1d_ising_alg_haldane_ss_6_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_1d_ising_alg_haldane_ss_6_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "9b197c37fb49657841fc2cf0d24d79242b8285cdd86b2f7c617b32b2aa03d98b"
+  },
+  {
+    "path": "G_info_rfc/tgt_1d_heisenberg_alg_iqp_ss_6_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_1d_heisenberg_alg_iqp_ss_6_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "0332e09b5fb7b00813f4875149c7e7b299de57677e06eea47350419ba48c7d3c"
+  },
+  {
+    "path": "G_info_rfc/tgt_bio_alg_heisenberg_ss_6_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_bio_alg_heisenberg_ss_6_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "d9efdedef614a5c75ec58549d78d393a4f50d54f5931ce665992ffc34074eebc"
+  },
+  {
+    "path": "G_info_rfc/tgt_1d_haldane_alg_heisenberg_ss_6_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_1d_haldane_alg_heisenberg_ss_6_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "506531b14340a975e0310e483b58ecd32009d58438c0e63ca751ca368171787f"
+  },
+  {
+    "path": "G_info_rfc/tgt_bio_alg_iqp_ss_4_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_bio_alg_iqp_ss_4_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "628010e63f3951dde501b4b779ec749ed7b48c42ca610f1aea13b919e0c34b35"
+  },
+  {
+    "path": "G_info_rfc/tgt_bio_alg_iqp_ss_5_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_bio_alg_iqp_ss_5_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "796240fd6bbdf8fe1fe3dd7851a9d17f3a7b12b67600685eaaae9409714bd223"
+  },
+  {
+    "path": "G_info_rfc/tgt_2d_haldane_alg_heisenberg_ss_6_n_6_d_40/n_exp_10/all_probs.npy",
+    "source": "qcbm_jax/G_info_rfc/tgt_2d_haldane_alg_heisenberg_ss_6_n_6_d_40/n_exp_10/all_probs.npy",
+    "bytes": 2688,
+    "sha256": "51c19357eb514a801a833ddb57cb7d09112a9e0252b79dcd4a260d88973cf98c"
+  },
+  {
+    "path": "diff_losses/histories_1d_ising_mmd_hamming_0.0001_20.npz",
+    "source": "qcbm_jax/diff_losses/histories_1d_ising_mmd_hamming_0.0001_20.pkl",
+    "bytes": 192606,
+    "sha256": "f8fec1334cd6b520eeccd708665cf9052b7a0f37743e0878886dcfa94a32e721",
+    "original_sha256": "d62ba2139bdcbfa018552fee2991c9f0c182be31022cd256f9f32e60de4e64e4",
+    "original_bytes": 4321270,
+    "conversion": "Numeric arrays + JSON dictionary structure; original pickle values retained."
+  },
+  {
+    "path": "diff_losses/histories_1d_ising_emd.npz",
+    "source": "qcbm_jax/diff_losses/histories_1d_ising_emd.pkl",
+    "bytes": 301442,
+    "sha256": "c070bf9059a08b357671ae086236e21683e5e83da9ee6a495978741850d66947",
+    "original_sha256": "e8e46b058a449f450d72fdf7e05c6e5ddc5b8061dc3162d2cd967c676782b162",
+    "original_bytes": 4321270,
+    "conversion": "Numeric arrays + JSON dictionary structure; original pickle values retained."
+  },
+  {
+    "path": "diff_losses/histories_2d_haldane_mmd_hamming_0.0001_20.npz",
+    "source": "qcbm_jax/diff_losses/histories_2d_haldane_mmd_hamming_0.0001_20.pkl",
+    "bytes": 164808,
+    "sha256": "b88672fbb5a581b42597067ac4eaadc0e6821de0973f459f6116efe756426643",
+    "original_sha256": "8206e1ef6fb63312ae602610faf23026e8a128c14ed7ad823f68165314c29874",
+    "original_bytes": 4321270,
+    "conversion": "Numeric arrays + JSON dictionary structure; original pickle values retained."
+  },
+  {
+    "path": "diff_losses/histories_1d_ising_mmd_hamming_0.01_20.npz",
+    "source": "qcbm_jax/diff_losses/histories_1d_ising_mmd_hamming_0.01_20.pkl",
+    "bytes": 192606,
+    "sha256": "f8fec1334cd6b520eeccd708665cf9052b7a0f37743e0878886dcfa94a32e721",
+    "original_sha256": "d62ba2139bdcbfa018552fee2991c9f0c182be31022cd256f9f32e60de4e64e4",
+    "original_bytes": 4321270,
+    "conversion": "Numeric arrays + JSON dictionary structure; original pickle values retained."
+  },
+  {
+    "path": "diff_losses/histories_1d_ising_tv.npz",
+    "source": "qcbm_jax/diff_losses/histories_1d_ising_tv.pkl",
+    "bytes": 287866,
+    "sha256": "13aabac538b90882f097f7860867e8c21cb817d473572a7da57bbd9963244853",
+    "original_sha256": "dff14a1ff8690c01f6e6aa558edfa3c67a338615a2117721f711f005a2fb2c1c",
+    "original_bytes": 4321270,
+    "conversion": "Numeric arrays + JSON dictionary structure; original pickle values retained."
+  },
+  {
+    "path": "diff_losses/histories_bio_mmd_hamming_0.0001_20.npz",
+    "source": "qcbm_jax/diff_losses/histories_bio_mmd_hamming_0.0001_20.pkl",
+    "bytes": 238172,
+    "sha256": "cd988d8fa5d6d1183fbef152e787a34ae98047d90053e43877128bd6a83d4a81",
+    "original_sha256": "6247fa477fc4afc985aea11fc2a27de84a85270d574624a30d3f7fa68635417f",
+    "original_bytes": 4321270,
+    "conversion": "Numeric arrays + JSON dictionary structure; original pickle values retained."
+  },
+  {
+    "path": "diff_losses/histories_1d_ising_mmd_anova_1.npz",
+    "source": "qcbm_jax/diff_losses/histories_1d_ising_mmd_anova_1.pkl",
+    "bytes": 372364,
+    "sha256": "07a2f0f6967ebb8908a79ee19887fb44c4435c0c9e8b084397af8c433bb1b6ae",
+    "original_sha256": "9f0be2668f0bb45db44e9048f857d5a08809129e24e46cb7e2cd2464eb9f4086",
+    "original_bytes": 4321270,
+    "conversion": "Numeric arrays + JSON dictionary structure; original pickle values retained."
+  },
+  {
+    "path": "diff_losses/histories_1d_ising_mmd_anova_2.npz",
+    "source": "qcbm_jax/diff_losses/histories_1d_ising_mmd_anova_2.pkl",
+    "bytes": 316281,
+    "sha256": "2e3fb0a99ddcfc4e45483720762af0d0e56603ab4c2046e7fb4f02f380082894",
+    "original_sha256": "cb271fedf603f276f94a121b997159b89f01a9b2678d91561e8607e69faa8668",
+    "original_bytes": 4321270,
+    "conversion": "Numeric arrays + JSON dictionary structure; original pickle values retained."
+  },
+  {
+    "path": "diff_losses/histories_1d_ising_mmd_anova_3.npz",
+    "source": "qcbm_jax/diff_losses/histories_1d_ising_mmd_anova_3.pkl",
+    "bytes": 273487,
+    "sha256": "83ba82e47f7336c638583c724ac21bc7085c5612a2714d007b34dbda77207f2b",
+    "original_sha256": "505cdae8a4310e932e4fa8c77e9a5a00f525207a93a3e18e29e1d4472c159e51",
+    "original_bytes": 4321270,
+    "conversion": "Numeric arrays + JSON dictionary structure; original pickle values retained."
+  },
+  {
+    "path": "diff_losses/histories_1d_ising_mmd_anova_4.npz",
+    "source": "qcbm_jax/diff_losses/histories_1d_ising_mmd_anova_4.pkl",
+    "bytes": 245023,
+    "sha256": "9575788a473e971817edaf550ad1f7252aa9832ae473c0ba81947c2cba749cc5",
+    "original_sha256": "8f467abb45f9159594f4121866f7b5a16e8e3c065659d55eef7fda888565f9f5",
+    "original_bytes": 4321270,
+    "conversion": "Numeric arrays + JSON dictionary structure; original pickle values retained."
+  },
+  {
+    "path": "diff_losses/histories_1d_ising_mmd_anova_5.npz",
+    "source": "qcbm_jax/diff_losses/histories_1d_ising_mmd_anova_5.pkl",
+    "bytes": 222667,
+    "sha256": "7da4ff09862c62439d329e1447f208a45e5d8e879f3b8e1dca486a76a1fd6bf1",
+    "original_sha256": "3474182fee07b2c0f524b3abb261e084b9a5dd0b73dd3aae5ef5b91c460ef326",
+    "original_bytes": 4321270,
+    "conversion": "Numeric arrays + JSON dictionary structure; original pickle values retained."
+  },
+  {
+    "path": "diff_losses/histories_1d_ising_mmd_anova_6.npz",
+    "source": "qcbm_jax/diff_losses/histories_1d_ising_mmd_anova_6.pkl",
+    "bytes": 192606,
+    "sha256": "f8fec1334cd6b520eeccd708665cf9052b7a0f37743e0878886dcfa94a32e721",
+    "original_sha256": "d62ba2139bdcbfa018552fee2991c9f0c182be31022cd256f9f32e60de4e64e4",
+    "original_bytes": 4321270,
+    "conversion": "Numeric arrays + JSON dictionary structure; original pickle values retained."
+  },
+  {
+    "path": "dmrg/sq_6_1_amplitudes_ising_2d.csv.gz",
+    "source": "DMRG/sq_6_1_amplitudes_ising_2d.csv",
+    "bytes": 685,
+    "sha256": "f53a20043eaee0bfdef3a7b0f0f1f77de2f5a898c6109544530e3de4f068540c",
+    "original_sha256": "0ccab5ecf8214cd146d549bb7a6b85b6c6b809dc09b8a83f5764ce66e5f48f18",
+    "original_bytes": 1396
+  },
+  {
+    "path": "dmrg/sq_6_1_amplitudes_heisenberg_2d.csv.gz",
+    "source": "DMRG/sq_6_1_amplitudes_heisenberg_2d.csv",
+    "bytes": 692,
+    "sha256": "8691b423c5c0c75a800be2d18a70e406920601544eaf5f86ddfe1f73229afdef",
+    "original_sha256": "72636009030c8be504c7f63118db69eda15463d5fb87e1c63352472898bc2662",
+    "original_bytes": 1429
+  },
+  {
+    "path": "dmrg/sq_6_1_amplitudes_2d.csv.gz",
+    "source": "DMRG/sq_6_1_amplitudes_2d.csv",
+    "bytes": 402,
+    "sha256": "d4f2668cf77bdeb9772a017e012bcf2f3e537e8244e799984582e5d29835b320",
+    "original_sha256": "6d7215e489c71c6feddf7d97429e346cb3d0b82082343e7f6b3e306cacb596db",
+    "original_bytes": 1274
+  },
+  {
+    "path": "dmrg/sq_2_3_amplitudes_2d.csv.gz",
+    "source": "DMRG/sq_2_3_amplitudes_2d.csv",
+    "bytes": 467,
+    "sha256": "17861f4715b71d80c747946eff700a8e3090f05245ac5b22c7a8a2607ed45426",
+    "original_sha256": "933a2cb13643f48c2d4c5712c2e54e7ece061518bd465d18355ba5f64c9179ff",
+    "original_bytes": 1276
+  },
+  {
+    "path": "dmrg/sq_12_1_amplitudes_ising_2d.csv.gz",
+    "source": "DMRG/sq_12_1_amplitudes_ising_2d.csv",
+    "bytes": 40131,
+    "sha256": "c6d0e58fa0ce1ca8d46023718969e9f526b9559e0673d66d01b42934e9fd775d",
+    "original_sha256": "39bf19eb1132cefc8b1bedfae31c784acc378e0e3d80b95693ce702925cd9da3",
+    "original_bytes": 91193
+  },
+  {
+    "path": "dmrg/sq_20_1_amplitudes_ising_2d.csv.gz",
+    "source": "DMRG/sq_20_1_amplitudes_ising_2d.csv",
+    "bytes": 10051357,
+    "sha256": "cc507f4ac68275593924111ee328a8155c78831e5e3560d3c4095bb0049338c6",
+    "original_sha256": "84bded37400281c22f5c63b86611dddae16fcec3222287a7575df64081fe28b8",
+    "original_bytes": 23758793
+  }
+]

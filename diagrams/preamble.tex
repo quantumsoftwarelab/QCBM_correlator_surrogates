@@ -1,0 +1,153 @@
+\documentclass[border=6pt]{standalone}
+
+\providecommand{\mathdefault}[1]{#1}
+\usepackage[english]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath,dsfont,mathtools}
+\usepackage{tikz}
+\usepackage{multirow}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage{pgf}
+\usepackage{algorithm}
+\usepackage{dcolumn}
+\usepackage{bm}
+\usepackage{makecell}
+\usepackage[normalem]{ulem}
+\usepackage{color}
+\graphicspath{{figures/}}
+\usepackage{adjustbox}
+\usepackage{physics}
+\usepackage{amsfonts}
+\usepackage{soul}
+\usepackage{overpic}
+\usepackage{lmodern}
+\usepackage{fix-cm}
+\usepackage{nowidow}
+\usepackage{amsthm}
+\usepackage{comment}
+\usepackage[noend]{algpseudocode}
+\usepackage{thmtools}
+\usepackage{thm-restate}
+\usepackage{xcolor}
+\usepackage{mathdots}
+\usepackage{yhmath}
+\usepackage{ragged2e}
+\usepackage{silence}
+\WarningFilter{revtex4-2}{Repair the float}
+\usepackage[scr=rsfso]{mathalfa}
+\usepackage{stmaryrd}
+\usepackage{booktabs}
+
+\usetikzlibrary{quantikz2}
+\usetikzlibrary{fadings}
+\usetikzlibrary{patterns}
+\usetikzlibrary{shadows.blur}
+\usetikzlibrary{shapes}
+\theoremstyle{definition}
+\newtheorem{definition}{Definition}[section]
+\theoremstyle{plain}
+\newtheorem{lemma}{Lemma}[section]
+\newtheorem{proposition}{Proposition}[section]
+
+\newtheorem{theorem}{Theorem}[section]
+
+\newcommand{\bth}{\boldsymbol{\theta}}
+\newcommand{\poly}{\ensuremath{\operatorname{poly}}}
+\newcommand{\V}{\ensuremath{\mathcal{V}}}
+\newcommand{\Q}{\ensuremath{\mathcal{Q}}}
+\newcommand{\T}{{\rm T}}
+
+\newcommand{\g}{{\ensuremath{\mathfrak{g}}}}
+\newcommand{\G}{\mathcal{G}}
+\newcommand{\risk}{\mathcal{R}}
+
+
+\newcommand{\id}{\mathds{1}}
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\X}{\mathcal{X}}
+\newcommand{\Y}{\mathcal{Y}}
+\newcommand{\kpsi}{\ket{\psi}}
+\newcommand{\btheta}{{\boldsymbol{\theta}}}
+\newcommand{\boldeta}{\boldsymbol{\eta}}
+\newcommand{\bXi}{\boldsymbol{\Xi}}
+\newcommand{\by}{\boldsymbol{y}}
+\newcommand{\bxp}{\boldsymbol{x'}}
+\newcommand{\byp}{\boldsymbol{y'}}
+\newcommand{\vrnc}{\operatroname{\mathds{V}ar}}
+\newcommand{\Wtr}{W_{\bth}}
+\newcommand{\bx}{\ensuremath{\boldsymbol{x}}}
+\newcommand{\br}{\ensuremath{\boldsymbol{r}}}
+\newcommand{\bz}{\ensuremath{\boldsymbol{z}}}
+\newcommand{\bP}{\ensuremath{\boldsymbol{P}}}
+\newcommand{\bzero}{\ensuremath{\boldsymbol{0}}}
+\newcommand{\bi}{\boldsymbol{i}}
+\newcommand{\bip}{\boldsymbol{i'}}
+\newcommand{\bj}{\boldsymbol{j}}
+\newcommand{\bk}{\boldsymbol{k}}
+\newcommand{\pkb}{\ket{\cdot}\!\bra{\cdot}}
+\newcommand{\przero}{\ket{0}\!\!\bra{0}}
+\newcommand{\prone}{\ket{1}\!\!\bra{1}}
+\newcommand{\bprzero}{\ket{\bzero}\!\!\bra{\bzero}}
+\newcommand{\sumrw}{\sum_{\substack{ i_1,i'_1\in R(\omega) \\j_1,j'_1\in R(\omega)}}}
+\newcommand{\sumrwb}{\sum_{\substack{ I,I'\in R(\omega) \\J,J'\in R(\omega)}}}
+\newcommand{\E}{\mathbb{E}}
+\newcommand{\Exp}{\mathds{E}}
+\newcommand{\bomega}{\boldsymbol{\omega}}
+\newcommand{\OL}{\frac{1}{n}\sum_j \przero_j\otimes \mathds{1}_{\noj}}
+
+
+\newcommand{\pr}{\operatorname{Pr}_\btheta}
+\newcommand{\opr}{\operatorname{Pr}}
+\newcommand{\noi}{\bar{\imath}}
+\newcommand{\noj}{\bar{\jmath}}
+\newcommand{\cl}{\mathcal{C}\!\ell}
+\newcommand{\ccl}{\boldsymbol{c}_{\mathcal{C}\!\ell}}
+\newcommand{\cq}{\boldsymbol{c}_{\mathcal{Q}}}
+\newcommand{\Var}{\operatorname{\mathds{V}\!ar}}
+\newcommand{\1}{\mathds{1}}
+\newcommand{\F}{\mathbb{F}}
+
+\renewcommand \thepart{}
+\setcounter{tocdepth}{3}
+
+\newcommand{\Isimp}{\raisebox{-.15em}{\resizebox{.06\textwidth}{!}{\input{figures/tn_notation/I_simpl.tikz}}}}
+\newcommand{\Fsimp}{\raisebox{-.1em}{\resizebox{.05\textwidth}{!}{\input{figures/tn_notation/F_simpl.tikz}}}}
+\newcommand{\Osimp}{\raisebox{-.1em}{\resizebox{.05\textwidth}{!}{\input{figures/tn_notation/O_simpl.tikz}}}}
+\newcommand{\Zsimp}{\raisebox{-.1em}{\resizebox{.05\textwidth}{!}{\input{figures/tn_notation/Z_simpl.tikz}}}}
+\newcommand{\ivsimp}{\raisebox{-.1em}{\resizebox{.05\textwidth}{!}{\input{figures/tn_notation/dummy_simpl.tikz}}}}
+
+
+\definecolor{customblue}{HTML}{17178B}
+\newcommand{\opacitylevel}{0.7}
+\newcommand{\crossedsymbol}{
+  \raisebox{3pt}{
+    \tikz[baseline=(char.base)]{
+      \node[shape=cross out, draw=customblue, line width=.6mm, inner sep=2pt, outer sep=1pt, opacity=\opacitylevel] (char) {};
+      \draw[customblue, dashed, line width=.6mm, opacity=\opacitylevel] ([xshift=-8pt]char.west) -- ([xshift=8pt]char.east);
+    }
+  }
+}
+\newcommand{\crosssolid}{
+  \raisebox{3pt}{
+    \tikz[baseline=(char.base)]{
+      \node[shape=cross out, draw=customblue, line width=.6mm, inner sep=2pt, outer sep=1pt, opacity=\opacitylevel] (char) {};
+      \draw[customblue, line width=.6mm, opacity=\opacitylevel] ([xshift=-8pt]char.west) -- ([xshift=8pt]char.east);
+    }
+  }
+}
+\newcommand{\customauthors}[1]{
+    \bgroup\def\and{, }\def\And{, }\def\AND{, }
+    \author{#1}
+    \egroup
+}
+\newcommand{\bK}{\boldsymbol{K}}
+\newcommand{\bA}{\boldsymbol{A}}
+\def\mathdefault#1{#1}
+\usepackage[colorlinks=true,citecolor=blue,linkcolor=blue]{hyperref}
+\newcommand{\figref}[2][]{\hyperref[#2]{\ref*{#2}#1}}
+\usepackage{cleveref}
+
+
+\setlength{\textwidth}{510pt}
+\setlength{\linewidth}{510pt}

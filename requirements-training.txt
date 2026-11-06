@@ -1,0 +1,8 @@
+-r requirements.txt
+jax==0.6.2
+jaxlib==0.6.2
+pennylane==0.44.0
+optax==0.2.3
+quimb==1.8.4
+numba==0.60.0
+sympy==1.14.0

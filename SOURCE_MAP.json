@@ -1,0 +1,156 @@
+[
+  {
+    "figure": 1,
+    "source": "https://arxiv.org/src/2511.01845v1",
+    "asset": "fig01_full_principal_fig.tikz",
+    "source_sha256": "46ef0311139e7c444c78058368ee583bbc1023ba35823b9eac2d39bde3b31a98",
+    "repository_sha256": "3bd3bed2fc240e555963ba3ded6b4d83ab34f217b228846659dfb73acc0f49a2"
+  },
+  {
+    "figure": 2,
+    "source": "https://arxiv.org/src/2511.01845v1",
+    "asset": "fig02_qcbm_scheme.tikz",
+    "source_sha256": "b13ff4b4d7fc61e9e6ec98cba9355ce906295782cb52945261d82a01f0f767a9",
+    "repository_sha256": "1695381236d54cb80fad14781d63354b2fda9bbd65ac592054cf2825fc7afc8c"
+  },
+  {
+    "figure": 3,
+    "source": "https://arxiv.org/src/2511.01845v1",
+    "asset": "fig03_approximations.tikz",
+    "source_sha256": "a510cad65d02eae76d44f7947e35e767e3915f4204b3aad6fbdaa3883e7c8dff",
+    "repository_sha256": "4ee44b11598c77ae72c7d512bab1ed8179cc63123ee7f064e47981b9cccfb452"
+  },
+  {
+    "figure": 4,
+    "source": "k_order_data.ipynb",
+    "cells_zero_based": [
+      3
+    ],
+    "source_sha256": "2cd4d6d4555df8ac3ea347c94b2d020d56d29750e017fe76afbde32006d67059"
+  },
+  {
+    "figure": 5,
+    "source": "k_order_data.ipynb",
+    "cells_zero_based": [
+      6,
+      9
+    ],
+    "source_sha256": "2cd4d6d4555df8ac3ea347c94b2d020d56d29750e017fe76afbde32006d67059"
+  },
+  {
+    "figure": 6,
+    "source": "variances/rec_obs_k.ipynb",
+    "cells_zero_based": [
+      16
+    ],
+    "source_sha256": "1bd21c2397098625063acbb3d70112d424bb9a3825cca7d86fb57eb016b619ed"
+  },
+  {
+    "figure": 7,
+    "source": "TN_final_fig.ipynb",
+    "cells_zero_based": [
+      0,
+      2,
+      3
+    ],
+    "source_sha256": "62325df8f3d6bfe72843a9c8561fc701034d0506f721b786dd63c44857ea6d91"
+  },
+  {
+    "figure": 8,
+    "source": "diff_losses/diff_losses_plot.ipynb",
+    "cells_zero_based": [
+      0,
+      1,
+      2
+    ],
+    "source_sha256": "f59a1acff84fe300989a15074aa90f17848ed96e7c30aec8aef20b0a7d63d57a"
+  },
+  {
+    "figure": 9,
+    "source": "fig_alg_deploy.ipynb",
+    "cells_zero_based": [
+      0
+    ],
+    "source_sha256": "6435288890782f62b2a6e0d4b28fe1a3ccc9fb1dda6488411719ed9a9db8f73d"
+  },
+  {
+    "figure": 10,
+    "source": "RkOS_fig.ipynb",
+    "cells_zero_based": [
+      2
+    ],
+    "source_sha256": "918f992c60d426f03dae2c135ddbdd3515ad07734be140ee4a0795b4cc036023"
+  },
+  {
+    "figure": 11,
+    "source": "surrs_training_curves.ipynb",
+    "cells_zero_based": [
+      0
+    ],
+    "source_sha256": "054a87b23d4a00d2d2cba3e2ff72217a44daeb7753b563e5abaf0d7907b47a14"
+  },
+  {
+    "figure": 12,
+    "source": "tn_training_fig.ipynb",
+    "cells_zero_based": [
+      1,
+      4
+    ],
+    "source_sha256": "0ea27336d49418b4b119c0094641c3eac64ba22cb244bf21a67e9da81370476d"
+  },
+  {
+    "figure": 12,
+    "additional_sources": [
+      "iqp_pps.ipynb cell 4",
+      "mse_k_fig_trained.ipynb cells 1\u20132"
+    ],
+    "note": "Uses saved MSE records, one shared heatmap layout."
+  },
+  {
+    "figure": 13,
+    "source": "https://arxiv.org/src/2511.01845v1",
+    "asset": "fig14_data_lattice.tikz",
+    "source_sha256": "b876ada14ad5456749027b892d25c8dc43260e1a8cf1a86eeea26c1f8f0532f6",
+    "repository_sha256": "01bd5e13be53911d355e8dbf3d9a66a0e09ccd81401ec2764e8614fd455c4124"
+  },
+  {
+    "figure": 14,
+    "source": "entropy.ipynb",
+    "cells_zero_based": [
+      1,
+      2,
+      8,
+      12
+    ],
+    "source_sha256": "6a14d3a17b0e08bd0f2e5ceb648d9289e04ba75cf0e57b3e8bb0aee6565effc1"
+  },
+  {
+    "figure": 15,
+    "source": "app_tn_weingarten.ipynb",
+    "cells_zero_based": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "source_sha256": "2e05e5f8b63eb8755d0f6becbf5ffd0962f914c31336e32f5136f447703ae469"
+  },
+  {
+    "figure": 16,
+    "source": "loss_kernel_plot.ipynb",
+    "cells_zero_based": [
+      0,
+      1,
+      2
+    ],
+    "source_sha256": "313f328da0311b5d0a3d7510970b9845ef810eb8fda15943020b1925bf0d88f1"
+  },
+  {
+    "figure": 17,
+    "source": "dependencies_corr.ipynb",
+    "cells_zero_based": [
+      1
+    ],
+    "source_sha256": "2fdecb9a30c12abfa1e6e06dc4e81b4512d6c3fe2ee61bc05651e8c6e0fe1c96"
+  }
+]
