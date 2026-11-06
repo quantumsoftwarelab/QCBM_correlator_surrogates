@@ -54,6 +54,10 @@ Figure numbers follow the paper's reading order, not the inconsistent `fig13`–
 
 Only the required DMRG exports are included, without the Julia project or unrelated datasets. [data/README.md](data/README.md) describes their meaning and provenance. Inputs occupy approximately 15 MB. CSV amplitudes are losslessly gzip-compressed; experiment dictionaries are stored as numeric NPZ arrays with JSON structure, requiring no pickle execution or JAX installation for plotting. [data/manifest.json](data/manifest.json) records SHA-256 checksums, original names, and conversion details.
 
+## Short tutorial
+
+[Train an IQP circuit with Pauli propagation](tutorial_iqp_pauli_propagation.ipynb) calls the shared training and surrogate functions, explains the two truncation cutoffs, and compares surrogate training with exact circuit deployment. The notebook includes an executed six-qubit example and its output plots.
+
 ## Fresh training runs
 
 ```sh
